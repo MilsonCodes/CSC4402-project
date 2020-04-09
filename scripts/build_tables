@@ -1,0 +1,27 @@
+#Create Table Location
+create table if not exists locations
+(
+code varchar(512), 
+name varchar(1000),
+primary key (code)
+);
+
+#Load Data
+load data local infile '../data/data.csv' into table locations fields terminated by '","'  lines terminated by '\n' ignore 2 lines (@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@GEO_TTL,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@GEO_ID) set code = @GEO_ID, name = @GEO_TTL;
+
+select count(*) from locations;
+select * from locations;
+
+#Create Table Industry
+create table if not exists industries
+(
+code varchar(512), 
+name varchar(1000),
+primary key (code)
+);
+
+#Load Data
+load data local infile '../data/data.csv' into table industries fields terminated by ',' enclosed by '"' lines terminated by '\n' ignore 2 lines (@TTL,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@GEO_TTL,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@dummy,@ID) set code = @ID, name = @TTL;
+
+select count(*) from industries;
+select * from industries;
