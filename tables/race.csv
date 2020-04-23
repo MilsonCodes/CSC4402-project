@@ -1,0 +1,2857 @@
+id,race_group
+1,White
+2,Black or African American
+3,American Indian and Alaska Native
+4,Asian
+5,Native Hawaiian and Other Pacific Islander
+6,Some other race
+7,All firms
+8,All firms
+9,Nonminority
+10,Nonminority
+11,Nonminority
+12,"All firms classifiable by gender, ethnicity, race, and veteran status"
+13,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+14,All firms
+15,All firms
+16,All firms
+17,All firms
+18,White
+19,Black or African American
+20,American Indian and Alaska Native
+21,Asian
+22,Native Hawaiian and Other Pacific Islander
+23,Some other race
+24,All firms
+25,All firms
+26,All firms
+27,All firms
+28,All firms
+29,All firms
+30,All firms
+31,All firms
+32,All firms
+33,All firms
+34,All firms
+35,All firms
+36,All firms
+37,All firms
+38,All firms
+39,All firms
+40,All firms
+41,All firms
+42,All firms
+43,All firms
+44,White
+45,Black or African American
+46,American Indian and Alaska Native
+47,Asian
+48,Native Hawaiian and Other Pacific Islander
+49,Some other race
+50,All firms
+51,All firms
+52,All firms
+53,All firms
+54,All firms
+55,All firms
+56,White
+57,Black or African American
+58,American Indian and Alaska Native
+59,Asian
+60,Native Hawaiian and Other Pacific Islander
+61,Some other race
+62,All firms
+63,All firms
+64,All firms
+65,All firms
+66,White
+67,Black or African American
+68,American Indian and Alaska Native
+69,Asian
+70,Native Hawaiian and Other Pacific Islander
+71,Some other race
+72,All firms
+73,All firms
+74,Equally minority/nonminority
+75,Equally minority/nonminority
+76,Equally minority/nonminority
+77,Equally minority/nonminority
+78,Nonminority
+79,Nonminority
+80,Nonminority
+81,Nonminority
+82,All firms
+83,All firms
+84,All firms
+85,All firms
+86,White
+87,White
+88,White
+89,White
+90,"All firms classifiable by gender, ethnicity, race, and veteran status"
+91,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+92,All firms
+93,All firms
+94,Black or African American
+95,Black or African American
+96,Black or African American
+97,Black or African American
+98,All firms
+99,All firms
+100,All firms
+101,All firms
+102,American Indian and Alaska Native
+103,American Indian and Alaska Native
+104,American Indian and Alaska Native
+105,American Indian and Alaska Native
+106,Asian
+107,White
+108,Black or African American
+109,American Indian and Alaska Native
+110,Asian
+111,Native Hawaiian and Other Pacific Islander
+112,Some other race
+113,All firms
+114,All firms
+115,All firms
+116,All firms
+117,Asian
+118,Asian
+119,Asian
+120,Asian Indian
+121,Asian Indian
+122,Asian Indian
+123,Asian Indian
+124,All firms
+125,All firms
+126,All firms
+127,All firms
+128,Chinese
+129,Chinese
+130,Chinese
+131,Chinese
+132,All firms
+133,All firms
+134,All firms
+135,All firms
+136,All firms
+137,Filipino
+138,Filipino
+139,Filipino
+140,Filipino
+141,Japanese
+142,All firms
+143,All firms
+144,All firms
+145,All firms
+146,All firms
+147,Japanese
+148,Japanese
+149,Japanese
+150,Korean
+151,Korean
+152,Korean
+153,Korean
+154,Vietnamese
+155,Vietnamese
+156,Vietnamese
+157,Vietnamese
+158,Other Asian
+159,Other Asian
+160,Other Asian
+161,Other Asian
+162,Native Hawaiian and Other Pacific Islander
+163,Native Hawaiian and Other Pacific Islander
+164,Native Hawaiian and Other Pacific Islander
+165,Native Hawaiian and Other Pacific Islander
+166,Native Hawaiian
+167,Native Hawaiian
+168,Native Hawaiian
+169,Native Hawaiian
+170,Guamanian or Chamorro
+171,Guamanian or Chamorro
+172,Guamanian or Chamorro
+173,Guamanian or Chamorro
+174,Samoan
+175,Samoan
+176,Samoan
+177,Samoan
+178,Other Pacific Islander
+179,Other Pacific Islander
+180,Other Pacific Islander
+181,Other Pacific Islander
+182,Some other race
+183,Some other race
+184,Some other race
+185,Some other race
+186,Minority
+187,Minority
+188,Minority
+189,Minority
+190,Asian
+191,Asian
+192,Asian Indian
+193,Asian Indian
+194,Asian Indian
+195,Asian Indian
+196,All firms
+197,All firms
+198,All firms
+199,White
+200,Black or African American
+201,American Indian and Alaska Native
+202,Chinese
+203,Chinese
+204,Chinese
+205,Chinese
+206,Asian
+207,Native Hawaiian and Other Pacific Islander
+208,Some other race
+209,All firms
+210,All firms
+211,All firms
+212,All firms
+213,All firms
+214,Filipino
+215,Filipino
+216,Filipino
+217,Filipino
+218,Japanese
+219,Japanese
+220,All firms
+221,All firms
+222,All firms
+223,All firms
+224,All firms
+225,All firms
+226,All firms
+227,Japanese
+228,Japanese
+229,Korean
+230,Korean
+231,Korean
+232,Korean
+233,All firms
+234,All firms
+235,All firms
+236,All firms
+237,Vietnamese
+238,Vietnamese
+239,Vietnamese
+240,Vietnamese
+241,All firms
+242,All firms
+243,All firms
+244,All firms
+245,All firms
+246,All firms
+247,Other Asian
+248,Other Asian
+249,Other Asian
+250,Other Asian
+251,Native Hawaiian and Other Pacific Islander
+252,White
+253,Black or African American
+254,American Indian and Alaska Native
+255,Asian
+256,Native Hawaiian and Other Pacific Islander
+257,Some other race
+258,All firms
+259,All firms
+260,All firms
+261,All firms
+262,All firms
+263,All firms
+264,All firms
+265,All firms
+266,Native Hawaiian and Other Pacific Islander
+267,Native Hawaiian and Other Pacific Islander
+268,Native Hawaiian and Other Pacific Islander
+269,Native Hawaiian
+270,Native Hawaiian
+271,Native Hawaiian
+272,White
+273,Black or African American
+274,American Indian and Alaska Native
+275,Asian
+276,Native Hawaiian and Other Pacific Islander
+277,Some other race
+278,All firms
+279,Native Hawaiian
+280,Guamanian or Chamorro
+281,Guamanian or Chamorro
+282,Guamanian or Chamorro
+283,Guamanian or Chamorro
+284,All firms
+285,Samoan
+286,Samoan
+287,Samoan
+288,Samoan
+289,Other Pacific Islander
+290,Other Pacific Islander
+291,Other Pacific Islander
+292,Other Pacific Islander
+293,Some other race
+294,Some other race
+295,Some other race
+296,Some other race
+297,Minority
+298,Minority
+299,Minority
+300,Minority
+301,Equally minority/nonminority
+302,Equally minority/nonminority
+303,White
+304,Equally minority/nonminority
+305,Equally minority/nonminority
+306,Nonminority
+307,Nonminority
+308,Nonminority
+309,White
+310,White
+311,White
+312,Black or African American
+313,Nonminority
+314,"All firms classifiable by gender, ethnicity, race, and veteran status"
+315,Black or African American
+316,Black or African American
+317,Black or African American
+318,American Indian and Alaska Native
+319,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+320,All firms
+321,American Indian and Alaska Native
+322,American Indian and Alaska Native
+323,American Indian and Alaska Native
+324,Asian
+325,Asian
+326,Vietnamese
+327,Vietnamese
+328,Vietnamese
+329,Vietnamese
+330,Other Asian
+331,White
+332,Black or African American
+333,American Indian and Alaska Native
+334,Asian
+335,Native Hawaiian and Other Pacific Islander
+336,Some other race
+337,All firms
+338,All firms
+339,All firms
+340,All firms
+341,Other Asian
+342,Other Asian
+343,Other Asian
+344,Native Hawaiian and Other Pacific Islander
+345,Native Hawaiian and Other Pacific Islander
+346,Native Hawaiian and Other Pacific Islander
+347,White
+348,Black or African American
+349,American Indian and Alaska Native
+350,Asian
+351,Native Hawaiian and Other Pacific Islander
+352,Some other race
+353,All firms
+354,All firms
+355,All firms
+356,All firms
+357,All firms
+358,Native Hawaiian and Other Pacific Islander
+359,Native Hawaiian
+360,Native Hawaiian
+361,Native Hawaiian
+362,Native Hawaiian
+363,All firms
+364,All firms
+365,All firms
+366,Guamanian or Chamorro
+367,Guamanian or Chamorro
+368,Guamanian or Chamorro
+369,Guamanian or Chamorro
+370,Samoan
+371,Samoan
+372,Samoan
+373,Samoan
+374,Other Pacific Islander
+375,Other Pacific Islander
+376,Other Pacific Islander
+377,Other Pacific Islander
+378,Some other race
+379,Some other race
+380,Some other race
+381,Some other race
+382,Minority
+383,Minority
+384,Minority
+385,Minority
+386,Equally minority/nonminority
+387,Equally minority/nonminority
+388,Equally minority/nonminority
+389,Equally minority/nonminority
+390,Nonminority
+391,Nonminority
+392,Nonminority
+393,Nonminority
+394,"All firms classifiable by gender, ethnicity, race, and veteran status"
+395,White
+396,White
+397,White
+398,White
+399,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+400,Black or African American
+401,Black or African American
+402,Black or African American
+403,Black or African American
+404,All firms
+405,All firms
+406,All firms
+407,All firms
+408,American Indian and Alaska Native
+409,American Indian and Alaska Native
+410,American Indian and Alaska Native
+411,American Indian and Alaska Native
+412,Asian
+413,White
+414,Black or African American
+415,American Indian and Alaska Native
+416,Asian
+417,Native Hawaiian and Other Pacific Islander
+418,Some other race
+419,All firms
+420,All firms
+421,All firms
+422,All firms
+423,Asian
+424,Asian
+425,Asian
+426,Asian Indian
+427,Asian Indian
+428,Asian Indian
+429,Asian Indian
+430,All firms
+431,All firms
+432,All firms
+433,All firms
+434,All firms
+435,All firms
+436,Chinese
+437,Chinese
+438,Chinese
+439,Chinese
+440,All firms
+441,All firms
+442,All firms
+443,All firms
+444,All firms
+445,All firms
+446,Filipino
+447,Filipino
+448,Filipino
+449,Filipino
+450,Japanese
+451,Japanese
+452,All firms
+453,All firms
+454,All firms
+455,All firms
+456,Japanese
+457,Japanese
+458,Korean
+459,Korean
+460,Korean
+461,Korean
+462,Filipino
+463,Filipino
+464,Filipino
+465,Filipino
+466,Japanese
+467,Japanese
+468,Japanese
+469,Minority
+470,Minority
+471,Minority
+472,Minority
+473,Japanese
+474,Korean
+475,Korean
+476,Korean
+477,Korean
+478,Equally minority/nonminority
+479,Equally minority/nonminority
+480,Equally minority/nonminority
+481,Equally minority/nonminority
+482,Nonminority
+483,Nonminority
+484,Nonminority
+485,Nonminority
+486,All firms
+487,All firms
+488,All firms
+489,All firms
+490,All firms
+491,"All firms classifiable by gender, ethnicity, race, and veteran status"
+492,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+493,White
+494,Black or African American
+495,American Indian and Alaska Native
+496,Asian
+497,Native Hawaiian and Other Pacific Islander
+498,Some other race
+499,All firms
+500,All firms
+501,All firms
+502,All firms
+503,All firms
+504,All firms
+505,All firms
+506,All firms
+507,All firms
+508,All firms
+509,All firms
+510,All firms
+511,All firms
+512,White
+513,Black or African American
+514,American Indian and Alaska Native
+515,Asian
+516,Native Hawaiian and Other Pacific Islander
+517,Some other race
+518,All firms
+519,White
+520,Black or African American
+521,American Indian and Alaska Native
+522,Asian
+523,Native Hawaiian and Other Pacific Islander
+524,Some other race
+525,All firms
+526,All firms
+527,All firms
+528,All firms
+529,All firms
+530,All firms
+531,All firms
+532,All firms
+533,All firms
+534,All firms
+535,All firms
+536,All firms
+537,All firms
+538,All firms
+539,All firms
+540,All firms
+541,All firms
+542,Vietnamese
+543,Vietnamese
+544,Vietnamese
+545,Vietnamese
+546,Other Asian
+547,Other Asian
+548,Other Asian
+549,Other Asian
+550,White
+551,White
+552,White
+553,White
+554,Native Hawaiian and Other Pacific Islander
+555,Native Hawaiian and Other Pacific Islander
+556,Native Hawaiian and Other Pacific Islander
+557,Native Hawaiian and Other Pacific Islander
+558,Black or African American
+559,Black or African American
+560,Black or African American
+561,Black or African American
+562,Native Hawaiian
+563,Native Hawaiian
+564,Native Hawaiian
+565,Native Hawaiian
+566,Guamanian or Chamorro
+567,Guamanian or Chamorro
+568,Guamanian or Chamorro
+569,Guamanian or Chamorro
+570,American Indian and Alaska Native
+571,American Indian and Alaska Native
+572,American Indian and Alaska Native
+573,American Indian and Alaska Native
+574,Samoan
+575,Samoan
+576,Samoan
+577,Samoan
+578,Asian
+579,Asian
+580,Asian
+581,Asian
+582,Other Pacific Islander
+583,Other Pacific Islander
+584,Other Pacific Islander
+585,Other Pacific Islander
+586,Asian Indian
+587,Asian Indian
+588,Asian Indian
+589,Asian Indian
+590,Some other race
+591,Some other race
+592,Some other race
+593,Some other race
+594,Chinese
+595,Chinese
+596,Chinese
+597,Chinese
+598,White
+599,White
+600,White
+601,White
+602,American Indian and Alaska Native
+603,American Indian and Alaska Native
+604,American Indian and Alaska Native
+605,American Indian and Alaska Native
+606,Asian
+607,Chinese
+608,Chinese
+609,Chinese
+610,Chinese
+611,Black or African American
+612,Black or African American
+613,Black or African American
+614,Black or African American
+615,Asian
+616,Asian
+617,Asian
+618,Asian Indian
+619,Asian Indian
+620,Asian Indian
+621,Asian Indian
+622,All firms
+623,All firms
+624,All firms
+625,All firms
+626,All firms
+627,All firms
+628,White
+629,White
+630,White
+631,White
+632,Black or African American
+633,Black or African American
+634,Black or African American
+635,Black or African American
+636,American Indian and Alaska Native
+637,American Indian and Alaska Native
+638,American Indian and Alaska Native
+639,American Indian and Alaska Native
+640,Asian
+641,Asian
+642,Asian
+643,Asian
+644,Asian Indian
+645,Asian Indian
+646,Asian Indian
+647,Asian Indian
+648,Chinese
+649,Chinese
+650,Chinese
+651,Chinese
+652,Japanese
+653,Korean
+654,Korean
+655,Korean
+656,Korean
+657,Other Asian
+658,Other Asian
+659,Other Asian
+660,Other Asian
+661,Native Hawaiian and Other Pacific Islander
+662,Native Hawaiian and Other Pacific Islander
+663,Filipino
+664,Filipino
+665,Filipino
+666,Filipino
+667,Japanese
+668,Japanese
+669,Japanese
+670,All firms
+671,Vietnamese
+672,Vietnamese
+673,Vietnamese
+674,Vietnamese
+675,All firms
+676,All firms
+677,All firms
+678,All firms
+679,All firms
+680,Minority
+681,Minority
+682,Minority
+683,Minority
+684,Equally minority/nonminority
+685,Equally minority/nonminority
+686,Equally minority/nonminority
+687,Equally minority/nonminority
+688,Nonminority
+689,Nonminority
+690,Nonminority
+691,Nonminority
+692,"All firms classifiable by gender, ethnicity, race, and veteran status"
+693,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+694,All firms
+695,All firms
+696,All firms
+697,All firms
+698,White
+699,Black or African American
+700,American Indian and Alaska Native
+701,Asian
+702,Native Hawaiian and Other Pacific Islander
+703,Some other race
+704,All firms
+705,All firms
+706,All firms
+707,All firms
+708,All firms
+709,All firms
+710,All firms
+711,All firms
+712,All firms
+713,All firms
+714,All firms
+715,All firms
+716,All firms
+717,All firms
+718,All firms
+719,All firms
+720,All firms
+721,Filipino
+722,Filipino
+723,Filipino
+724,Filipino
+725,Japanese
+726,Japanese
+727,Japanese
+728,Japanese
+729,All firms
+730,All firms
+731,All firms
+732,White
+733,Black or African American
+734,American Indian and Alaska Native
+735,Asian
+736,Korean
+737,Korean
+738,Korean
+739,Korean
+740,Native Hawaiian and Other Pacific Islander
+741,Some other race
+742,All firms
+743,All firms
+744,All firms
+745,All firms
+746,White
+747,Vietnamese
+748,Vietnamese
+749,Vietnamese
+750,Vietnamese
+751,Other Asian
+752,Other Asian
+753,Other Asian
+754,Black or African American
+755,American Indian and Alaska Native
+756,Asian
+757,Native Hawaiian and Other Pacific Islander
+758,Some other race
+759,All firms
+760,All firms
+761,Other Asian
+762,Native Hawaiian and Other Pacific Islander
+763,Native Hawaiian and Other Pacific Islander
+764,Native Hawaiian and Other Pacific Islander
+765,Native Hawaiian and Other Pacific Islander
+766,Native Hawaiian
+767,Native Hawaiian
+768,Native Hawaiian
+769,Native Hawaiian
+770,Guamanian or Chamorro
+771,Guamanian or Chamorro
+772,Guamanian or Chamorro
+773,Guamanian or Chamorro
+774,Samoan
+775,Samoan
+776,Samoan
+777,Samoan
+778,Other Pacific Islander
+779,Other Pacific Islander
+780,Other Pacific Islander
+781,Other Pacific Islander
+782,Some other race
+783,Some other race
+784,Some other race
+785,Some other race
+786,All firms
+787,All firms
+788,All firms
+789,All firms
+790,White
+791,Black or African American
+792,American Indian and Alaska Native
+793,Asian
+794,Native Hawaiian and Other Pacific Islander
+795,Some other race
+796,All firms
+797,All firms
+798,All firms
+799,All firms
+800,All firms
+801,All firms
+802,All firms
+803,All firms
+804,All firms
+805,All firms
+806,All firms
+807,All firms
+808,All firms
+809,All firms
+810,All firms
+811,All firms
+812,All firms
+813,All firms
+814,All firms
+815,All firms
+816,White
+817,Black or African American
+818,American Indian and Alaska Native
+819,Asian
+820,Native Hawaiian and Other Pacific Islander
+821,Some other race
+822,All firms
+823,All firms
+824,All firms
+825,All firms
+826,White
+827,Black or African American
+828,American Indian and Alaska Native
+829,Asian
+830,Native Hawaiian and Other Pacific Islander
+831,Some other race
+832,All firms
+833,All firms
+834,Native Hawaiian and Other Pacific Islander
+835,Native Hawaiian and Other Pacific Islander
+836,Native Hawaiian
+837,Native Hawaiian
+838,Native Hawaiian
+839,Native Hawaiian
+840,Guamanian or Chamorro
+841,Guamanian or Chamorro
+842,Guamanian or Chamorro
+843,Guamanian or Chamorro
+844,Samoan
+845,Samoan
+846,Samoan
+847,Samoan
+848,Other Pacific Islander
+849,Other Pacific Islander
+850,Other Pacific Islander
+851,Other Pacific Islander
+852,Some other race
+853,Some other race
+854,Some other race
+855,Some other race
+856,Minority
+857,Minority
+858,Minority
+859,Minority
+860,Equally minority/nonminority
+861,Equally minority/nonminority
+862,Equally minority/nonminority
+863,Equally minority/nonminority
+864,Nonminority
+865,Nonminority
+866,Nonminority
+867,Nonminority
+868,"All firms classifiable by gender, ethnicity, race, and veteran status"
+869,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+870,All firms
+871,All firms
+872,All firms
+873,All firms
+874,All firms
+875,All firms
+876,All firms
+877,All firms
+878,Asian Indian
+879,Asian Indian
+880,Asian Indian
+881,Asian Indian
+882,Chinese
+883,Chinese
+884,Chinese
+885,Chinese
+886,All firms
+887,All firms
+888,All firms
+889,All firms
+890,Filipino
+891,Filipino
+892,Filipino
+893,Filipino
+894,All firms
+895,All firms
+896,All firms
+897,All firms
+898,All firms
+899,Japanese
+900,Japanese
+901,Japanese
+902,Japanese
+903,Korean
+904,Korean
+905,All firms
+906,All firms
+907,All firms
+908,White
+909,Black or African American
+910,American Indian and Alaska Native
+911,Korean
+912,Korean
+913,Vietnamese
+914,Vietnamese
+915,Vietnamese
+916,Vietnamese
+917,All firms
+918,All firms
+919,All firms
+920,All firms
+921,Other Asian
+922,Other Asian
+923,Other Asian
+924,Other Asian
+925,White
+926,Black or African American
+927,American Indian and Alaska Native
+928,Asian
+929,Native Hawaiian and Other Pacific Islander
+930,Some other race
+931,All firms
+932,All firms
+933,All firms
+934,Native Hawaiian and Other Pacific Islander
+935,Native Hawaiian and Other Pacific Islander
+936,Native Hawaiian and Other Pacific Islander
+937,Native Hawaiian and Other Pacific Islander
+938,Native Hawaiian
+939,Native Hawaiian
+940,Native Hawaiian
+941,Native Hawaiian
+942,Guamanian or Chamorro
+943,Guamanian or Chamorro
+944,Guamanian or Chamorro
+945,Guamanian or Chamorro
+946,Asian
+947,Native Hawaiian and Other Pacific Islander
+948,Some other race
+949,All firms
+950,All firms
+951,All firms
+952,All firms
+953,Samoan
+954,Samoan
+955,Samoan
+956,Samoan
+957,All firms
+958,Other Pacific Islander
+959,Other Pacific Islander
+960,Other Pacific Islander
+961,Other Pacific Islander
+962,Some other race
+963,Some other race
+964,Some other race
+965,Some other race
+966,Minority
+967,Minority
+968,Minority
+969,Minority
+970,Equally minority/nonminority
+971,Equally minority/nonminority
+972,Equally minority/nonminority
+973,White
+974,White
+975,White
+976,White
+977,Equally minority/nonminority
+978,Nonminority
+979,Nonminority
+980,Nonminority
+981,Nonminority
+982,Black or African American
+983,Black or African American
+984,Black or African American
+985,Black or African American
+986,"All firms classifiable by gender, ethnicity, race, and veteran status"
+987,American Indian and Alaska Native
+988,American Indian and Alaska Native
+989,American Indian and Alaska Native
+990,American Indian and Alaska Native
+991,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+992,All firms
+993,Asian
+994,Asian
+995,Asian
+996,Asian
+997,All firms
+998,All firms
+999,All firms
+1000,White
+1001,Black or African American
+1002,American Indian and Alaska Native
+1003,Asian
+1004,Native Hawaiian and Other Pacific Islander
+1005,Some other race
+1006,All firms
+1007,All firms
+1008,All firms
+1009,All firms
+1010,All firms
+1011,All firms
+1012,Minority
+1013,Minority
+1014,Minority
+1015,Minority
+1016,White
+1017,Black or African American
+1018,American Indian and Alaska Native
+1019,Asian
+1020,Native Hawaiian and Other Pacific Islander
+1021,Some other race
+1022,All firms
+1023,All firms
+1024,All firms
+1025,All firms
+1026,Equally minority/nonminority
+1027,Equally minority/nonminority
+1028,Equally minority/nonminority
+1029,Equally minority/nonminority
+1030,Nonminority
+1031,White
+1032,Black or African American
+1033,American Indian and Alaska Native
+1034,Asian
+1035,Native Hawaiian and Other Pacific Islander
+1036,Some other race
+1037,All firms
+1038,White
+1039,All firms
+1040,White
+1041,White
+1042,White
+1043,Black or African American
+1044,Black or African American
+1045,Black or African American
+1046,Black or African American
+1047,American Indian and Alaska Native
+1048,American Indian and Alaska Native
+1049,American Indian and Alaska Native
+1050,American Indian and Alaska Native
+1051,Asian
+1052,Asian
+1053,Asian
+1054,Asian
+1055,Asian Indian
+1056,Asian Indian
+1057,Asian Indian
+1058,Asian Indian
+1059,Chinese
+1060,Chinese
+1061,Chinese
+1062,Chinese
+1063,Filipino
+1064,Filipino
+1065,Filipino
+1066,Filipino
+1067,Japanese
+1068,Japanese
+1069,Japanese
+1070,Japanese
+1071,Nonminority
+1072,Nonminority
+1073,Nonminority
+1074,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1075,Korean
+1076,Korean
+1077,Korean
+1078,Korean
+1079,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1080,Vietnamese
+1081,Vietnamese
+1082,Vietnamese
+1083,Vietnamese
+1084,Other Asian
+1085,Other Asian
+1086,Other Asian
+1087,Other Asian
+1088,All firms
+1089,All firms
+1090,All firms
+1091,All firms
+1092,All firms
+1093,All firms
+1094,Native Hawaiian and Other Pacific Islander
+1095,Native Hawaiian and Other Pacific Islander
+1096,Native Hawaiian and Other Pacific Islander
+1097,Native Hawaiian and Other Pacific Islander
+1098,White
+1099,Black or African American
+1100,American Indian and Alaska Native
+1101,Asian
+1102,Native Hawaiian and Other Pacific Islander
+1103,Some other race
+1104,All firms
+1105,All firms
+1106,All firms
+1107,All firms
+1108,All firms
+1109,All firms
+1110,All firms
+1111,All firms
+1112,Native Hawaiian
+1113,Native Hawaiian
+1114,Native Hawaiian
+1115,Native Hawaiian
+1116,All firms
+1117,All firms
+1118,All firms
+1119,All firms
+1120,All firms
+1121,All firms
+1122,All firms
+1123,All firms
+1124,Guamanian or Chamorro
+1125,Guamanian or Chamorro
+1126,Guamanian or Chamorro
+1127,Guamanian or Chamorro
+1128,Samoan
+1129,Samoan
+1130,Samoan
+1131,Samoan
+1132,All firms
+1133,All firms
+1134,All firms
+1135,All firms
+1136,Other Pacific Islander
+1137,Other Pacific Islander
+1138,Other Pacific Islander
+1139,Other Pacific Islander
+1140,All firms
+1141,All firms
+1142,All firms
+1143,All firms
+1144,Some other race
+1145,Some other race
+1146,Some other race
+1147,Some other race
+1148,All firms
+1149,All firms
+1150,All firms
+1151,All firms
+1152,All firms
+1153,All firms
+1154,Asian Indian
+1155,Asian Indian
+1156,Asian Indian
+1157,Asian Indian
+1158,All firms
+1159,All firms
+1160,All firms
+1161,All firms
+1162,Chinese
+1163,Chinese
+1164,Chinese
+1165,Chinese
+1166,Filipino
+1167,Filipino
+1168,Filipino
+1169,Filipino
+1170,Japanese
+1171,Japanese
+1172,Japanese
+1173,Japanese
+1174,Korean
+1175,Korean
+1176,Korean
+1177,Korean
+1178,Vietnamese
+1179,Vietnamese
+1180,Vietnamese
+1181,Vietnamese
+1182,Other Asian
+1183,Other Asian
+1184,Other Asian
+1185,Other Asian
+1186,Native Hawaiian and Other Pacific Islander
+1187,Native Hawaiian and Other Pacific Islander
+1188,Native Hawaiian and Other Pacific Islander
+1189,Native Hawaiian and Other Pacific Islander
+1190,Native Hawaiian
+1191,Native Hawaiian
+1192,Native Hawaiian
+1193,Native Hawaiian
+1194,Guamanian or Chamorro
+1195,Guamanian or Chamorro
+1196,Guamanian or Chamorro
+1197,Guamanian or Chamorro
+1198,Samoan
+1199,Samoan
+1200,Samoan
+1201,Samoan
+1202,Other Pacific Islander
+1203,Other Pacific Islander
+1204,Other Pacific Islander
+1205,Other Pacific Islander
+1206,All firms
+1207,All firms
+1208,All firms
+1209,All firms
+1210,All firms
+1211,Some other race
+1212,Some other race
+1213,Some other race
+1214,Some other race
+1215,All firms
+1216,All firms
+1217,All firms
+1218,White
+1219,Black or African American
+1220,Minority
+1221,Minority
+1222,Minority
+1223,Minority
+1224,American Indian and Alaska Native
+1225,Asian
+1226,Native Hawaiian and Other Pacific Islander
+1227,Some other race
+1228,All firms
+1229,All firms
+1230,All firms
+1231,All firms
+1232,Equally minority/nonminority
+1233,Equally minority/nonminority
+1234,Equally minority/nonminority
+1235,Equally minority/nonminority
+1236,White
+1237,Black or African American
+1238,American Indian and Alaska Native
+1239,Asian
+1240,Native Hawaiian and Other Pacific Islander
+1241,Some other race
+1242,All firms
+1243,White
+1244,White
+1245,White
+1246,White
+1247,Nonminority
+1248,Nonminority
+1249,Nonminority
+1250,Nonminority
+1251,All firms
+1252,Black or African American
+1253,Black or African American
+1254,Black or African American
+1255,Black or African American
+1256,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1257,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1258,American Indian and Alaska Native
+1259,American Indian and Alaska Native
+1260,American Indian and Alaska Native
+1261,American Indian and Alaska Native
+1262,All firms
+1263,All firms
+1264,All firms
+1265,All firms
+1266,Asian
+1267,Asian
+1268,Asian
+1269,Asian
+1270,White
+1271,Black or African American
+1272,American Indian and Alaska Native
+1273,Asian
+1274,Native Hawaiian and Other Pacific Islander
+1275,Some other race
+1276,All firms
+1277,All firms
+1278,White
+1279,White
+1280,White
+1281,White
+1282,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1283,Black or African American
+1284,Black or African American
+1285,Black or African American
+1286,Black or African American
+1287,All firms
+1288,All firms
+1289,All firms
+1290,All firms
+1291,White
+1292,American Indian and Alaska Native
+1293,American Indian and Alaska Native
+1294,American Indian and Alaska Native
+1295,American Indian and Alaska Native
+1296,Black or African American
+1297,American Indian and Alaska Native
+1298,Asian
+1299,Native Hawaiian and Other Pacific Islander
+1300,Some other race
+1301,All firms
+1302,All firms
+1303,All firms
+1304,All firms
+1305,Asian
+1306,Asian
+1307,Asian
+1308,Asian
+1309,All firms
+1310,All firms
+1311,All firms
+1312,All firms
+1313,All firms
+1314,All firms
+1315,All firms
+1316,All firms
+1317,Asian Indian
+1318,Asian Indian
+1319,Asian Indian
+1320,Asian Indian
+1321,Chinese
+1322,Chinese
+1323,Chinese
+1324,Chinese
+1325,All firms
+1326,All firms
+1327,All firms
+1328,All firms
+1329,Filipino
+1330,Filipino
+1331,Filipino
+1332,Filipino
+1333,All firms
+1334,All firms
+1335,All firms
+1336,All firms
+1337,Japanese
+1338,Japanese
+1339,Japanese
+1340,Japanese
+1341,Korean
+1342,Korean
+1343,Korean
+1344,Korean
+1345,White
+1346,Black or African American
+1347,American Indian and Alaska Native
+1348,Asian
+1349,Native Hawaiian and Other Pacific Islander
+1350,Some other race
+1351,All firms
+1352,All firms
+1353,All firms
+1354,All firms
+1355,Vietnamese
+1356,Vietnamese
+1357,Vietnamese
+1358,Vietnamese
+1359,White
+1360,Black or African American
+1361,American Indian and Alaska Native
+1362,Asian
+1363,Native Hawaiian and Other Pacific Islander
+1364,Some other race
+1365,All firms
+1366,Other Asian
+1367,Other Asian
+1368,Other Asian
+1369,Other Asian
+1370,Native Hawaiian and Other Pacific Islander
+1371,All firms
+1372,All firms
+1373,Native Hawaiian and Other Pacific Islander
+1374,Native Hawaiian and Other Pacific Islander
+1375,Native Hawaiian and Other Pacific Islander
+1376,Native Hawaiian
+1377,Native Hawaiian
+1378,Native Hawaiian
+1379,Native Hawaiian
+1380,All firms
+1381,All firms
+1382,All firms
+1383,All firms
+1384,All firms
+1385,Guamanian or Chamorro
+1386,Guamanian or Chamorro
+1387,Guamanian or Chamorro
+1388,Guamanian or Chamorro
+1389,Samoan
+1390,Samoan
+1391,Samoan
+1392,Samoan
+1393,Other Pacific Islander
+1394,Other Pacific Islander
+1395,Other Pacific Islander
+1396,Other Pacific Islander
+1397,Some other race
+1398,Some other race
+1399,Some other race
+1400,Some other race
+1401,Minority
+1402,Minority
+1403,Minority
+1404,Minority
+1405,Equally minority/nonminority
+1406,Equally minority/nonminority
+1407,Equally minority/nonminority
+1408,Equally minority/nonminority
+1409,Nonminority
+1410,Nonminority
+1411,Nonminority
+1412,Nonminority
+1413,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1414,Native Hawaiian and Other Pacific Islander
+1415,Native Hawaiian and Other Pacific Islander
+1416,Native Hawaiian and Other Pacific Islander
+1417,Native Hawaiian
+1418,Native Hawaiian
+1419,All firms
+1420,Native Hawaiian
+1421,Native Hawaiian
+1422,Guamanian or Chamorro
+1423,Guamanian or Chamorro
+1424,Guamanian or Chamorro
+1425,Guamanian or Chamorro
+1426,Samoan
+1427,Samoan
+1428,Samoan
+1429,Samoan
+1430,Other Pacific Islander
+1431,Other Pacific Islander
+1432,Other Pacific Islander
+1433,Other Pacific Islander
+1434,Some other race
+1435,Some other race
+1436,Some other race
+1437,Some other race
+1438,Minority
+1439,Minority
+1440,Minority
+1441,Minority
+1442,Equally minority/nonminority
+1443,Equally minority/nonminority
+1444,Equally minority/nonminority
+1445,Equally minority/nonminority
+1446,Nonminority
+1447,Nonminority
+1448,Nonminority
+1449,Nonminority
+1450,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1451,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1452,All firms
+1453,All firms
+1454,American Indian and Alaska Native
+1455,American Indian and Alaska Native
+1456,American Indian and Alaska Native
+1457,American Indian and Alaska Native
+1458,All firms
+1459,All firms
+1460,White
+1461,Black or African American
+1462,American Indian and Alaska Native
+1463,Asian
+1464,Native Hawaiian and Other Pacific Islander
+1465,Some other race
+1466,All firms
+1467,Asian
+1468,Asian
+1469,Asian
+1470,Asian
+1471,Asian Indian
+1472,Asian Indian
+1473,All firms
+1474,All firms
+1475,All firms
+1476,All firms
+1477,All firms
+1478,All firms
+1479,All firms
+1480,Asian Indian
+1481,Asian Indian
+1482,Chinese
+1483,Chinese
+1484,Chinese
+1485,Chinese
+1486,All firms
+1487,All firms
+1488,All firms
+1489,All firms
+1490,Filipino
+1491,Filipino
+1492,Filipino
+1493,Filipino
+1494,All firms
+1495,All firms
+1496,All firms
+1497,All firms
+1498,All firms
+1499,Japanese
+1500,Japanese
+1501,Japanese
+1502,Japanese
+1503,Korean
+1504,Korean
+1505,Korean
+1506,Korean
+1507,All firms
+1508,All firms
+1509,All firms
+1510,White
+1511,Black or African American
+1512,Vietnamese
+1513,Vietnamese
+1514,Vietnamese
+1515,Vietnamese
+1516,American Indian and Alaska Native
+1517,Asian
+1518,Native Hawaiian and Other Pacific Islander
+1519,Some other race
+1520,All firms
+1521,All firms
+1522,All firms
+1523,All firms
+1524,Other Asian
+1525,Other Asian
+1526,Other Asian
+1527,Other Asian
+1528,Native Hawaiian and Other Pacific Islander
+1529,White
+1530,Black or African American
+1531,American Indian and Alaska Native
+1532,Asian
+1533,Native Hawaiian and Other Pacific Islander
+1534,Some other race
+1535,All firms
+1536,White
+1537,White
+1538,White
+1539,White
+1540,Black or African American
+1541,Black or African American
+1542,Black or African American
+1543,Black or African American
+1544,All firms
+1545,All firms
+1546,All firms
+1547,All firms
+1548,All firms
+1549,All firms
+1550,American Indian and Alaska Native
+1551,Asian
+1552,Native Hawaiian and Other Pacific Islander
+1553,Some other race
+1554,All firms
+1555,All firms
+1556,All firms
+1557,All firms
+1558,All firms
+1559,All firms
+1560,All firms
+1561,All firms
+1562,All firms
+1563,All firms
+1564,All firms
+1565,All firms
+1566,All firms
+1567,All firms
+1568,All firms
+1569,All firms
+1570,All firms
+1571,All firms
+1572,All firms
+1573,All firms
+1574,White
+1575,Black or African American
+1576,American Indian and Alaska Native
+1577,Asian
+1578,Native Hawaiian and Other Pacific Islander
+1579,Some other race
+1580,All firms
+1581,All firms
+1582,All firms
+1583,All firms
+1584,White
+1585,Black or African American
+1586,American Indian and Alaska Native
+1587,Asian
+1588,Native Hawaiian and Other Pacific Islander
+1589,Some other race
+1590,All firms
+1591,All firms
+1592,Samoan
+1593,Samoan
+1594,Samoan
+1595,Samoan
+1596,Other Pacific Islander
+1597,Other Pacific Islander
+1598,Other Pacific Islander
+1599,Other Pacific Islander
+1600,Some other race
+1601,Some other race
+1602,Some other race
+1603,Some other race
+1604,Minority
+1605,Minority
+1606,Minority
+1607,Minority
+1608,Equally minority/nonminority
+1609,Equally minority/nonminority
+1610,Equally minority/nonminority
+1611,Equally minority/nonminority
+1612,Nonminority
+1613,Nonminority
+1614,Nonminority
+1615,Nonminority
+1616,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1617,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1618,All firms
+1619,All firms
+1620,All firms
+1621,All firms
+1622,White
+1623,Black or African American
+1624,American Indian and Alaska Native
+1625,American Indian and Alaska Native
+1626,American Indian and Alaska Native
+1627,Asian
+1628,Asian
+1629,Asian
+1630,Asian
+1631,Asian Indian
+1632,Asian Indian
+1633,Asian Indian
+1634,Asian Indian
+1635,Chinese
+1636,Chinese
+1637,Chinese
+1638,Chinese
+1639,Filipino
+1640,Filipino
+1641,Filipino
+1642,Filipino
+1643,Japanese
+1644,Japanese
+1645,Japanese
+1646,Japanese
+1647,Korean
+1648,Korean
+1649,Korean
+1650,Korean
+1651,Vietnamese
+1652,Vietnamese
+1653,Vietnamese
+1654,Native Hawaiian and Other Pacific Islander
+1655,Native Hawaiian and Other Pacific Islander
+1656,Native Hawaiian and Other Pacific Islander
+1657,Native Hawaiian and Other Pacific Islander
+1658,Native Hawaiian
+1659,Native Hawaiian
+1660,Native Hawaiian
+1661,Native Hawaiian
+1662,Guamanian or Chamorro
+1663,Guamanian or Chamorro
+1664,Guamanian or Chamorro
+1665,Guamanian or Chamorro
+1666,All firms
+1667,All firms
+1668,Vietnamese
+1669,Other Asian
+1670,Other Asian
+1671,Other Asian
+1672,Other Asian
+1673,All firms
+1674,All firms
+1675,All firms
+1676,All firms
+1677,White
+1678,White
+1679,White
+1680,White
+1681,Black or African American
+1682,Black or African American
+1683,Black or African American
+1684,Black or African American
+1685,American Indian and Alaska Native
+1686,All firms
+1687,All firms
+1688,All firms
+1689,All firms
+1690,White
+1691,Black or African American
+1692,American Indian and Alaska Native
+1693,Black or African American
+1694,Black or African American
+1695,Black or African American
+1696,Black or African American
+1697,Asian
+1698,Native Hawaiian and Other Pacific Islander
+1699,Some other race
+1700,All firms
+1701,All firms
+1702,All firms
+1703,All firms
+1704,All firms
+1705,All firms
+1706,All firms
+1707,American Indian and Alaska Native
+1708,American Indian and Alaska Native
+1709,American Indian and Alaska Native
+1710,American Indian and Alaska Native
+1711,Asian
+1712,Asian
+1713,Asian
+1714,Asian
+1715,Asian Indian
+1716,Asian Indian
+1717,Asian Indian
+1718,Asian Indian
+1719,Chinese
+1720,Chinese
+1721,Chinese
+1722,Chinese
+1723,Filipino
+1724,Filipino
+1725,Filipino
+1726,Filipino
+1727,Japanese
+1728,Japanese
+1729,Japanese
+1730,Japanese
+1731,Korean
+1732,Korean
+1733,Korean
+1734,Korean
+1735,Vietnamese
+1736,Vietnamese
+1737,Vietnamese
+1738,Vietnamese
+1739,Other Asian
+1740,Other Asian
+1741,Other Asian
+1742,Other Asian
+1743,Native Hawaiian and Other Pacific Islander
+1744,All firms
+1745,Native Hawaiian and Other Pacific Islander
+1746,Native Hawaiian and Other Pacific Islander
+1747,Native Hawaiian and Other Pacific Islander
+1748,Native Hawaiian
+1749,Native Hawaiian
+1750,Native Hawaiian
+1751,Native Hawaiian
+1752,All firms
+1753,All firms
+1754,All firms
+1755,All firms
+1756,All firms
+1757,All firms
+1758,All firms
+1759,All firms
+1760,All firms
+1761,All firms
+1762,Guamanian or Chamorro
+1763,Guamanian or Chamorro
+1764,Guamanian or Chamorro
+1765,Guamanian or Chamorro
+1766,All firms
+1767,All firms
+1768,All firms
+1769,All firms
+1770,All firms
+1771,Samoan
+1772,Samoan
+1773,Samoan
+1774,Samoan
+1775,Other Pacific Islander
+1776,Other Pacific Islander
+1777,Other Pacific Islander
+1778,Other Pacific Islander
+1779,All firms
+1780,All firms
+1781,All firms
+1782,White
+1783,Black or African American
+1784,American Indian and Alaska Native
+1785,Asian
+1786,Some other race
+1787,Some other race
+1788,Some other race
+1789,Some other race
+1790,Native Hawaiian and Other Pacific Islander
+1791,Some other race
+1792,All firms
+1793,All firms
+1794,All firms
+1795,All firms
+1796,White
+1797,Minority
+1798,Minority
+1799,Minority
+1800,Minority
+1801,Black or African American
+1802,American Indian and Alaska Native
+1803,Asian
+1804,Native Hawaiian and Other Pacific Islander
+1805,Some other race
+1806,All firms
+1807,All firms
+1808,Equally minority/nonminority
+1809,Equally minority/nonminority
+1810,Equally minority/nonminority
+1811,Equally minority/nonminority
+1812,Nonminority
+1813,Nonminority
+1814,Nonminority
+1815,Nonminority
+1816,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1817,White
+1818,White
+1819,White
+1820,White
+1821,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1822,Some other race
+1823,Some other race
+1824,Some other race
+1825,Minority
+1826,Minority
+1827,Minority
+1828,Minority
+1829,Equally minority/nonminority
+1830,Equally minority/nonminority
+1831,Equally minority/nonminority
+1832,Equally minority/nonminority
+1833,Nonminority
+1834,Nonminority
+1835,Nonminority
+1836,Nonminority
+1837,White
+1838,White
+1839,White
+1840,White
+1841,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1842,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1843,Black or African American
+1844,Black or African American
+1845,Black or African American
+1846,Black or African American
+1847,American Indian and Alaska Native
+1848,All firms
+1849,All firms
+1850,All firms
+1851,All firms
+1852,American Indian and Alaska Native
+1853,American Indian and Alaska Native
+1854,American Indian and Alaska Native
+1855,Asian
+1856,Asian
+1857,White
+1858,Black or African American
+1859,American Indian and Alaska Native
+1860,Asian
+1861,Native Hawaiian and Other Pacific Islander
+1862,Some other race
+1863,All firms
+1864,All firms
+1865,All firms
+1866,All firms
+1867,Asian
+1868,Asian
+1869,Asian Indian
+1870,Asian Indian
+1871,Asian Indian
+1872,Asian Indian
+1873,All firms
+1874,All firms
+1875,All firms
+1876,All firms
+1877,Chinese
+1878,Chinese
+1879,Chinese
+1880,Chinese
+1881,Filipino
+1882,All firms
+1883,All firms
+1884,All firms
+1885,All firms
+1886,All firms
+1887,All firms
+1888,All firms
+1889,All firms
+1890,Filipino
+1891,Filipino
+1892,Filipino
+1893,Japanese
+1894,Japanese
+1895,Japanese
+1896,Japanese
+1897,All firms
+1898,All firms
+1899,All firms
+1900,All firms
+1901,Korean
+1902,Korean
+1903,Korean
+1904,Korean
+1905,Vietnamese
+1906,White
+1907,Black or African American
+1908,American Indian and Alaska Native
+1909,Asian
+1910,Native Hawaiian and Other Pacific Islander
+1911,Some other race
+1912,All firms
+1913,All firms
+1914,All firms
+1915,Vietnamese
+1916,Vietnamese
+1917,Vietnamese
+1918,Other Asian
+1919,Other Asian
+1920,Other Asian
+1921,Other Asian
+1922,All firms
+1923,White
+1924,Black or African American
+1925,American Indian and Alaska Native
+1926,Asian
+1927,Native Hawaiian and Other Pacific Islander
+1928,Some other race
+1929,All firms
+1930,Native Hawaiian and Other Pacific Islander
+1931,Native Hawaiian and Other Pacific Islander
+1932,Native Hawaiian and Other Pacific Islander
+1933,Native Hawaiian and Other Pacific Islander
+1934,All firms
+1935,All firms
+1936,All firms
+1937,All firms
+1938,Native Hawaiian
+1939,Native Hawaiian
+1940,Native Hawaiian
+1941,Native Hawaiian
+1942,Guamanian or Chamorro
+1943,Guamanian or Chamorro
+1944,All firms
+1945,All firms
+1946,All firms
+1947,Guamanian or Chamorro
+1948,Guamanian or Chamorro
+1949,Samoan
+1950,Samoan
+1951,Samoan
+1952,Samoan
+1953,Other Pacific Islander
+1954,Other Pacific Islander
+1955,Other Pacific Islander
+1956,Other Pacific Islander
+1957,Some other race
+1958,White
+1959,Black or African American
+1960,American Indian and Alaska Native
+1961,Asian
+1962,Native Hawaiian and Other Pacific Islander
+1963,Some other race
+1964,All firms
+1965,All firms
+1966,Other Asian
+1967,Other Asian
+1968,Other Asian
+1969,Other Asian
+1970,Native Hawaiian and Other Pacific Islander
+1971,All firms
+1972,All firms
+1973,All firms
+1974,All firms
+1975,All firms
+1976,All firms
+1977,Native Hawaiian and Other Pacific Islander
+1978,Native Hawaiian and Other Pacific Islander
+1979,Native Hawaiian and Other Pacific Islander
+1980,Native Hawaiian
+1981,Native Hawaiian
+1982,Native Hawaiian
+1983,Native Hawaiian
+1984,Guamanian or Chamorro
+1985,Guamanian or Chamorro
+1986,Guamanian or Chamorro
+1987,Guamanian or Chamorro
+1988,Samoan
+1989,Samoan
+1990,Samoan
+1991,Samoan
+1992,Other Pacific Islander
+1993,Other Pacific Islander
+1994,Other Pacific Islander
+1995,Other Pacific Islander
+1996,Some other race
+1997,Some other race
+1998,Some other race
+1999,Some other race
+2000,Minority
+2001,Minority
+2002,Minority
+2003,Minority
+2004,Equally minority/nonminority
+2005,Equally minority/nonminority
+2006,Equally minority/nonminority
+2007,Equally minority/nonminority
+2008,Nonminority
+2009,White
+2010,White
+2011,White
+2012,White
+2013,Nonminority
+2014,Nonminority
+2015,Nonminority
+2016,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2017,Black or African American
+2018,Black or African American
+2019,Black or African American
+2020,Black or African American
+2021,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2022,American Indian and Alaska Native
+2023,American Indian and Alaska Native
+2024,American Indian and Alaska Native
+2025,American Indian and Alaska Native
+2026,All firms
+2027,All firms
+2028,All firms
+2029,All firms
+2030,White
+2031,Black or African American
+2032,Asian
+2033,Asian
+2034,Asian
+2035,Asian
+2036,American Indian and Alaska Native
+2037,Asian
+2038,Native Hawaiian and Other Pacific Islander
+2039,Some other race
+2040,All firms
+2041,All firms
+2042,All firms
+2043,All firms
+2044,All firms
+2045,Asian Indian
+2046,Asian Indian
+2047,Asian Indian
+2048,Asian Indian
+2049,Chinese
+2050,Chinese
+2051,Chinese
+2052,Chinese
+2053,All firms
+2054,All firms
+2055,All firms
+2056,All firms
+2057,All firms
+2058,All firms
+2059,All firms
+2060,Filipino
+2061,Filipino
+2062,Filipino
+2063,Filipino
+2064,All firms
+2065,All firms
+2066,All firms
+2067,All firms
+2068,Japanese
+2069,Japanese
+2070,Japanese
+2071,Japanese
+2072,Korean
+2073,Korean
+2074,Korean
+2075,Korean
+2076,All firms
+2077,All firms
+2078,All firms
+2079,All firms
+2080,White
+2081,Vietnamese
+2082,Vietnamese
+2083,Vietnamese
+2084,Vietnamese
+2085,Black or African American
+2086,American Indian and Alaska Native
+2087,Asian
+2088,Native Hawaiian and Other Pacific Islander
+2089,Some other race
+2090,All firms
+2091,All firms
+2092,All firms
+2093,All firms
+2094,Vietnamese
+2095,Vietnamese
+2096,Vietnamese
+2097,Vietnamese
+2098,Other Asian
+2099,Other Asian
+2100,Other Asian
+2101,Other Asian
+2102,Native Hawaiian and Other Pacific Islander
+2103,Native Hawaiian and Other Pacific Islander
+2104,All firms
+2105,Native Hawaiian and Other Pacific Islander
+2106,Native Hawaiian and Other Pacific Islander
+2107,Native Hawaiian
+2108,Native Hawaiian
+2109,Native Hawaiian
+2110,Native Hawaiian
+2111,All firms
+2112,All firms
+2113,All firms
+2114,All firms
+2115,All firms
+2116,Guamanian or Chamorro
+2117,Guamanian or Chamorro
+2118,Guamanian or Chamorro
+2119,Guamanian or Chamorro
+2120,Samoan
+2121,Samoan
+2122,Samoan
+2123,Samoan
+2124,Other Pacific Islander
+2125,Other Pacific Islander
+2126,Other Pacific Islander
+2127,Other Pacific Islander
+2128,Minority
+2129,Minority
+2130,Minority
+2131,Minority
+2132,Nonminority
+2133,Nonminority
+2134,Nonminority
+2135,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2136,Some other race
+2137,Some other race
+2138,Some other race
+2139,Some other race
+2140,Equally minority/nonminority
+2141,Equally minority/nonminority
+2142,Equally minority/nonminority
+2143,Equally minority/nonminority
+2144,Nonminority
+2145,White
+2146,White
+2147,White
+2148,White
+2149,Black or African American
+2150,Black or African American
+2151,Black or African American
+2152,Black or African American
+2153,American Indian and Alaska Native
+2154,American Indian and Alaska Native
+2155,American Indian and Alaska Native
+2156,American Indian and Alaska Native
+2157,Asian
+2158,Asian
+2159,Asian
+2160,Asian
+2161,Asian Indian
+2162,Asian Indian
+2163,Asian Indian
+2164,Asian Indian
+2165,Chinese
+2166,Chinese
+2167,Chinese
+2168,Chinese
+2169,Filipino
+2170,Filipino
+2171,Filipino
+2172,Filipino
+2173,Japanese
+2174,Japanese
+2175,Japanese
+2176,Japanese
+2177,Korean
+2178,Korean
+2179,Korean
+2180,Korean
+2181,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2182,All firms
+2183,All firms
+2184,All firms
+2185,All firms
+2186,White
+2187,Black or African American
+2188,American Indian and Alaska Native
+2189,Asian
+2190,Native Hawaiian and Other Pacific Islander
+2191,Some other race
+2192,All firms
+2193,All firms
+2194,All firms
+2195,All firms
+2196,All firms
+2197,All firms
+2198,All firms
+2199,All firms
+2200,All firms
+2201,All firms
+2202,All firms
+2203,All firms
+2204,All firms
+2205,All firms
+2206,All firms
+2207,All firms
+2208,All firms
+2209,All firms
+2210,All firms
+2211,All firms
+2212,White
+2213,Black or African American
+2214,American Indian and Alaska Native
+2215,Asian
+2216,Native Hawaiian and Other Pacific Islander
+2217,Some other race
+2218,All firms
+2219,All firms
+2220,All firms
+2221,All firms
+2222,White
+2223,Black or African American
+2224,American Indian and Alaska Native
+2225,Asian
+2226,Native Hawaiian and Other Pacific Islander
+2227,Some other race
+2228,All firms
+2229,All firms
+2230,All firms
+2231,All firms
+2232,All firms
+2233,All firms
+2234,All firms
+2235,All firms
+2236,Asian
+2237,Native Hawaiian and Other Pacific Islander
+2238,Some other race
+2239,All firms
+2240,All firms
+2241,All firms
+2242,All firms
+2243,All firms
+2244,All firms
+2245,Asian
+2246,Asian
+2247,Asian
+2248,Asian
+2249,All firms
+2250,All firms
+2251,All firms
+2252,All firms
+2253,All firms
+2254,All firms
+2255,Asian Indian
+2256,Asian Indian
+2257,Asian Indian
+2258,Asian Indian
+2259,Chinese
+2260,Chinese
+2261,Chinese
+2262,Chinese
+2263,Filipino
+2264,Filipino
+2265,Filipino
+2266,Filipino
+2267,Japanese
+2268,Japanese
+2269,Japanese
+2270,Japanese
+2271,Korean
+2272,Korean
+2273,Korean
+2274,Korean
+2275,Vietnamese
+2276,Vietnamese
+2277,Vietnamese
+2278,Vietnamese
+2279,Other Asian
+2280,Other Asian
+2281,Other Asian
+2282,Other Asian
+2283,Native Hawaiian and Other Pacific Islander
+2284,Native Hawaiian and Other Pacific Islander
+2285,Native Hawaiian and Other Pacific Islander
+2286,Native Hawaiian and Other Pacific Islander
+2287,Native Hawaiian
+2288,Native Hawaiian
+2289,Native Hawaiian
+2290,Native Hawaiian
+2291,Guamanian or Chamorro
+2292,Guamanian or Chamorro
+2293,Guamanian or Chamorro
+2294,Guamanian or Chamorro
+2295,Samoan
+2296,Samoan
+2297,Samoan
+2298,Samoan
+2299,All firms
+2300,All firms
+2301,All firms
+2302,All firms
+2303,Other Pacific Islander
+2304,Other Pacific Islander
+2305,Other Pacific Islander
+2306,Other Pacific Islander
+2307,All firms
+2308,All firms
+2309,All firms
+2310,All firms
+2311,Some other race
+2312,Some other race
+2313,Some other race
+2314,Some other race
+2315,Minority
+2316,White
+2317,Black or African American
+2318,American Indian and Alaska Native
+2319,Asian
+2320,Native Hawaiian and Other Pacific Islander
+2321,Some other race
+2322,All firms
+2323,All firms
+2324,All firms
+2325,All firms
+2326,Minority
+2327,Minority
+2328,Minority
+2329,Equally minority/nonminority
+2330,White
+2331,Black or African American
+2332,American Indian and Alaska Native
+2333,Asian
+2334,Native Hawaiian and Other Pacific Islander
+2335,Some other race
+2336,All firms
+2337,Equally minority/nonminority
+2338,Equally minority/nonminority
+2339,Equally minority/nonminority
+2340,Nonminority
+2341,Nonminority
+2342,All firms
+2343,White
+2344,White
+2345,White
+2346,Nonminority
+2347,Nonminority
+2348,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2349,White
+2350,Black or African American
+2351,Black or African American
+2352,Black or African American
+2353,Black or African American
+2354,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2355,All firms
+2356,American Indian and Alaska Native
+2357,American Indian and Alaska Native
+2358,American Indian and Alaska Native
+2359,American Indian and Alaska Native
+2360,All firms
+2361,All firms
+2362,All firms
+2363,White
+2364,Black or African American
+2365,American Indian and Alaska Native
+2366,White
+2367,Black or African American
+2368,American Indian and Alaska Native
+2369,Asian
+2370,Native Hawaiian and Other Pacific Islander
+2371,Some other race
+2372,All firms
+2373,All firms
+2374,Nonminority
+2375,Nonminority
+2376,Nonminority
+2377,Nonminority
+2378,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2379,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2380,All firms
+2381,All firms
+2382,White
+2383,White
+2384,White
+2385,White
+2386,All firms
+2387,All firms
+2388,All firms
+2389,All firms
+2390,All firms
+2391,All firms
+2392,All firms
+2393,All firms
+2394,Black or African American
+2395,Black or African American
+2396,Black or African American
+2397,Black or African American
+2398,American Indian and Alaska Native
+2399,White
+2400,Black or African American
+2401,American Indian and Alaska Native
+2402,Asian
+2403,Native Hawaiian and Other Pacific Islander
+2404,Some other race
+2405,All firms
+2406,All firms
+2407,All firms
+2408,All firms
+2409,American Indian and Alaska Native
+2410,American Indian and Alaska Native
+2411,American Indian and Alaska Native
+2412,Asian
+2413,All firms
+2414,All firms
+2415,All firms
+2416,All firms
+2417,All firms
+2418,All firms
+2419,Asian
+2420,Asian
+2421,Asian
+2422,Asian Indian
+2423,Asian Indian
+2424,Asian Indian
+2425,Asian Indian
+2426,All firms
+2427,All firms
+2428,All firms
+2429,All firms
+2430,Chinese
+2431,Chinese
+2432,Chinese
+2433,Chinese
+2434,Filipino
+2435,White
+2436,Black or African American
+2437,American Indian and Alaska Native
+2438,Asian
+2439,Native Hawaiian and Other Pacific Islander
+2440,Some other race
+2441,All firms
+2442,All firms
+2443,All firms
+2444,All firms
+2445,Filipino
+2446,Filipino
+2447,Filipino
+2448,Japanese
+2449,Japanese
+2450,Japanese
+2451,Japanese
+2452,All firms
+2453,All firms
+2454,All firms
+2455,All firms
+2456,All firms
+2457,All firms
+2458,Korean
+2459,Korean
+2460,Korean
+2461,Korean
+2462,Vietnamese
+2463,Vietnamese
+2464,Vietnamese
+2465,Vietnamese
+2466,Other Asian
+2467,Other Asian
+2468,Other Asian
+2469,Other Asian
+2470,Native Hawaiian and Other Pacific Islander
+2471,Native Hawaiian and Other Pacific Islander
+2472,Native Hawaiian and Other Pacific Islander
+2473,Native Hawaiian and Other Pacific Islander
+2474,Native Hawaiian
+2475,Native Hawaiian
+2476,Native Hawaiian
+2477,Native Hawaiian
+2478,Guamanian or Chamorro
+2479,Guamanian or Chamorro
+2480,Guamanian or Chamorro
+2481,Guamanian or Chamorro
+2482,Samoan
+2483,Samoan
+2484,Samoan
+2485,Samoan
+2486,Other Pacific Islander
+2487,Other Pacific Islander
+2488,Other Pacific Islander
+2489,Other Pacific Islander
+2490,Some other race
+2491,Some other race
+2492,Some other race
+2493,Some other race
+2494,Minority
+2495,Minority
+2496,Minority
+2497,Minority
+2498,Equally minority/nonminority
+2499,Equally minority/nonminority
+2500,Equally minority/nonminority
+2501,Equally minority/nonminority
+2502,Korean
+2503,Korean
+2504,Korean
+2505,Korean
+2506,Vietnamese
+2507,Vietnamese
+2508,Vietnamese
+2509,Vietnamese
+2510,Other Asian
+2511,Other Asian
+2512,Other Asian
+2513,Other Asian
+2514,Native Hawaiian and Other Pacific Islander
+2515,Native Hawaiian and Other Pacific Islander
+2516,Native Hawaiian and Other Pacific Islander
+2517,Native Hawaiian and Other Pacific Islander
+2518,All firms
+2519,All firms
+2520,All firms
+2521,Native Hawaiian
+2522,Native Hawaiian
+2523,Native Hawaiian
+2524,Native Hawaiian
+2525,All firms
+2526,All firms
+2527,All firms
+2528,Guamanian or Chamorro
+2529,Guamanian or Chamorro
+2530,Guamanian or Chamorro
+2531,Guamanian or Chamorro
+2532,Samoan
+2533,Samoan
+2534,Samoan
+2535,Some other race
+2536,Some other race
+2537,Some other race
+2538,Some other race
+2539,Equally minority/nonminority
+2540,Equally minority/nonminority
+2541,Equally minority/nonminority
+2542,Nonminority
+2543,Samoan
+2544,Other Pacific Islander
+2545,Other Pacific Islander
+2546,Other Pacific Islander
+2547,Other Pacific Islander
+2548,Minority
+2549,Minority
+2550,Minority
+2551,Minority
+2552,Equally minority/nonminority
+2553,White
+2554,White
+2555,White
+2556,White
+2557,Black or African American
+2558,Black or African American
+2559,Black or African American
+2560,Black or African American
+2561,American Indian and Alaska Native
+2562,American Indian and Alaska Native
+2563,American Indian and Alaska Native
+2564,American Indian and Alaska Native
+2565,Asian
+2566,Asian
+2567,Asian
+2568,Asian
+2569,Asian Indian
+2570,Asian Indian
+2571,Asian Indian
+2572,Asian Indian
+2573,Chinese
+2574,Chinese
+2575,Chinese
+2576,Chinese
+2577,Filipino
+2578,Filipino
+2579,Filipino
+2580,Filipino
+2581,Japanese
+2582,Japanese
+2583,Japanese
+2584,Japanese
+2585,All firms
+2586,All firms
+2587,All firms
+2588,All firms
+2589,All firms
+2590,All firms
+2591,Chinese
+2592,Chinese
+2593,Chinese
+2594,Chinese
+2595,Filipino
+2596,Filipino
+2597,Filipino
+2598,Filipino
+2599,Japanese
+2600,Japanese
+2601,Japanese
+2602,Japanese
+2603,White
+2604,White
+2605,White
+2606,White
+2607,Black or African American
+2608,Black or African American
+2609,Black or African American
+2610,Black or African American
+2611,American Indian and Alaska Native
+2612,American Indian and Alaska Native
+2613,American Indian and Alaska Native
+2614,American Indian and Alaska Native
+2615,Asian
+2616,Asian
+2617,Asian
+2618,Asian
+2619,Asian Indian
+2620,Asian Indian
+2621,Asian Indian
+2622,Asian Indian
+2623,Korean
+2624,Korean
+2625,Korean
+2626,Korean
+2627,Vietnamese
+2628,Vietnamese
+2629,Vietnamese
+2630,Vietnamese
+2631,Other Asian
+2632,Other Asian
+2633,Other Asian
+2634,Other Asian
+2635,Some other race
+2636,Some other race
+2637,Some other race
+2638,Some other race
+2639,Native Hawaiian and Other Pacific Islander
+2640,Native Hawaiian and Other Pacific Islander
+2641,Native Hawaiian and Other Pacific Islander
+2642,Native Hawaiian and Other Pacific Islander
+2643,Native Hawaiian
+2644,Native Hawaiian
+2645,Native Hawaiian
+2646,Native Hawaiian
+2647,Guamanian or Chamorro
+2648,Guamanian or Chamorro
+2649,Guamanian or Chamorro
+2650,Guamanian or Chamorro
+2651,Samoan
+2652,Samoan
+2653,Samoan
+2654,Samoan
+2655,Other Pacific Islander
+2656,Other Pacific Islander
+2657,Other Pacific Islander
+2658,Other Pacific Islander
+2659,Minority
+2660,Minority
+2661,Minority
+2662,Minority
+2663,Equally minority/nonminority
+2664,Equally minority/nonminority
+2665,Equally minority/nonminority
+2666,Equally minority/nonminority
+2667,Nonminority
+2668,Nonminority
+2669,Nonminority
+2670,Nonminority
+2671,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2672,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2673,All firms
+2674,All firms
+2675,All firms
+2676,All firms
+2677,All firms
+2678,All firms
+2679,All firms
+2680,All firms
+2681,White
+2682,Black or African American
+2683,American Indian and Alaska Native
+2684,Asian
+2685,Native Hawaiian and Other Pacific Islander
+2686,Some other race
+2687,All firms
+2688,All firms
+2689,All firms
+2690,All firms
+2691,All firms
+2692,All firms
+2693,All firms
+2694,All firms
+2695,All firms
+2696,All firms
+2697,All firms
+2698,All firms
+2699,All firms
+2700,All firms
+2701,All firms
+2702,All firms
+2703,White
+2704,Black or African American
+2705,American Indian and Alaska Native
+2706,Asian
+2707,Native Hawaiian and Other Pacific Islander
+2708,Some other race
+2709,All firms
+2710,All firms
+2711,All firms
+2712,All firms
+2713,White
+2714,Black or African American
+2715,American Indian and Alaska Native
+2716,Asian
+2717,Native Hawaiian and Other Pacific Islander
+2718,Some other race
+2719,All firms
+2720,All firms
+2721,All firms
+2722,All firms
+2723,All firms
+2724,All firms
+2725,All firms
+2726,All firms
+2727,Chinese
+2728,Chinese
+2729,Filipino
+2730,Filipino
+2731,Filipino
+2732,Filipino
+2733,Japanese
+2734,Japanese
+2735,Japanese
+2736,Japanese
+2737,White
+2738,White
+2739,White
+2740,White
+2741,Black or African American
+2742,Black or African American
+2743,Black or African American
+2744,Black or African American
+2745,American Indian and Alaska Native
+2746,American Indian and Alaska Native
+2747,American Indian and Alaska Native
+2748,American Indian and Alaska Native
+2749,Asian
+2750,Asian
+2751,Asian
+2752,Asian
+2753,Asian Indian
+2754,Asian Indian
+2755,Asian Indian
+2756,Asian Indian
+2757,Chinese
+2758,Chinese
+2759,Korean
+2760,Korean
+2761,Korean
+2762,Korean
+2763,Vietnamese
+2764,Vietnamese
+2765,Vietnamese
+2766,Vietnamese
+2767,Other Pacific Islander
+2768,Other Pacific Islander
+2769,Other Pacific Islander
+2770,Other Pacific Islander
+2771,Some other race
+2772,Some other race
+2773,Some other race
+2774,Some other race
+2775,Minority
+2776,Other Asian
+2777,Other Asian
+2778,Other Asian
+2779,Other Asian
+2780,Native Hawaiian and Other Pacific Islander
+2781,Native Hawaiian and Other Pacific Islander
+2782,Native Hawaiian and Other Pacific Islander
+2783,Native Hawaiian and Other Pacific Islander
+2784,Native Hawaiian
+2785,Native Hawaiian
+2786,Native Hawaiian
+2787,Native Hawaiian
+2788,Guamanian or Chamorro
+2789,Guamanian or Chamorro
+2790,Guamanian or Chamorro
+2791,Guamanian or Chamorro
+2792,Samoan
+2793,Samoan
+2794,Samoan
+2795,Samoan
+2796,All firms
+2797,All firms
+2798,All firms
+2799,All firms
+2800,All firms
+2801,All firms
+2802,All firms
+2803,All firms
+2804,All firms
+2805,All firms
+2806,All firms
+2807,All firms
+2808,Minority
+2809,Minority
+2810,Minority
+2811,Equally minority/nonminority
+2812,Equally minority/nonminority
+2813,Equally minority/nonminority
+2814,Equally minority/nonminority
+2815,Nonminority
+2816,Nonminority
+2817,Nonminority
+2818,Nonminority
+2819,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2820,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2821,All firms
+2822,All firms
+2823,All firms
+2824,All firms
+2825,White
+2826,Black or African American
+2827,American Indian and Alaska Native
+2828,Asian
+2829,Native Hawaiian and Other Pacific Islander
+2830,Some other race
+2831,All firms
+2832,All firms
+2833,All firms
+2834,All firms
+2835,All firms
+2836,All firms
+2837,All firms
+2838,All firms
+2839,White
+2840,Black or African American
+2841,American Indian and Alaska Native
+2842,Asian
+2843,Native Hawaiian and Other Pacific Islander
+2844,Some other race
+2845,All firms
+2846,All firms
+2847,All firms
+2848,All firms
+2849,White
+2850,Black or African American
+2851,American Indian and Alaska Native
+2852,Asian
+2853,Native Hawaiian and Other Pacific Islander
+2854,Some other race
+2855,All firms
+2856,All firms

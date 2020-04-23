@@ -1,0 +1,2857 @@
+id,sex
+1,All firms
+2,All firms
+3,All firms
+4,All firms
+5,All firms
+6,All firms
+7,All firms
+8,All firms
+9,Female-owned
+10,Male-owned
+11,Equally male-/female-owned
+12,All firms
+13,All firms
+14,All firms
+15,Female-owned
+16,Male-owned
+17,Equally male-/female-owned
+18,All firms
+19,All firms
+20,All firms
+21,All firms
+22,All firms
+23,All firms
+24,All firms
+25,Female-owned
+26,Male-owned
+27,Equally male-/female-owned
+28,All firms
+29,Female-owned
+30,Male-owned
+31,Equally male-/female-owned
+32,All firms
+33,Female-owned
+34,Male-owned
+35,Equally male-/female-owned
+36,All firms
+37,Female-owned
+38,Male-owned
+39,Equally male-/female-owned
+40,All firms
+41,Female-owned
+42,Male-owned
+43,Equally male-/female-owned
+44,All firms
+45,All firms
+46,All firms
+47,All firms
+48,All firms
+49,All firms
+50,All firms
+51,Female-owned
+52,Male-owned
+53,Equally male-/female-owned
+54,Male-owned
+55,Equally male-/female-owned
+56,All firms
+57,All firms
+58,All firms
+59,All firms
+60,All firms
+61,All firms
+62,All firms
+63,Female-owned
+64,Male-owned
+65,Equally male-/female-owned
+66,All firms
+67,All firms
+68,All firms
+69,All firms
+70,All firms
+71,All firms
+72,All firms
+73,All firms
+74,All firms
+75,Female-owned
+76,Male-owned
+77,Equally male-/female-owned
+78,All firms
+79,Female-owned
+80,Male-owned
+81,Equally male-/female-owned
+82,All firms
+83,Female-owned
+84,Male-owned
+85,Equally male-/female-owned
+86,All firms
+87,Female-owned
+88,Male-owned
+89,Equally male-/female-owned
+90,All firms
+91,All firms
+92,"All firms classifiable by gender, ethnicity, race, and veteran status"
+93,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+94,All firms
+95,Female-owned
+96,Male-owned
+97,Equally male-/female-owned
+98,All firms
+99,Female-owned
+100,Male-owned
+101,Equally male-/female-owned
+102,All firms
+103,Female-owned
+104,Male-owned
+105,Equally male-/female-owned
+106,All firms
+107,All firms
+108,All firms
+109,All firms
+110,All firms
+111,All firms
+112,All firms
+113,All firms
+114,Female-owned
+115,Male-owned
+116,Equally male-/female-owned
+117,Female-owned
+118,Male-owned
+119,Equally male-/female-owned
+120,All firms
+121,Female-owned
+122,Male-owned
+123,Equally male-/female-owned
+124,All firms
+125,Female-owned
+126,Male-owned
+127,Equally male-/female-owned
+128,All firms
+129,Female-owned
+130,Male-owned
+131,Equally male-/female-owned
+132,All firms
+133,Female-owned
+134,Male-owned
+135,Equally male-/female-owned
+136,All firms
+137,All firms
+138,Female-owned
+139,Male-owned
+140,Equally male-/female-owned
+141,All firms
+142,Female-owned
+143,Male-owned
+144,Equally male-/female-owned
+145,All firms
+146,Female-owned
+147,Female-owned
+148,Male-owned
+149,Equally male-/female-owned
+150,All firms
+151,Female-owned
+152,Male-owned
+153,Equally male-/female-owned
+154,All firms
+155,Female-owned
+156,Male-owned
+157,Equally male-/female-owned
+158,All firms
+159,Female-owned
+160,Male-owned
+161,Equally male-/female-owned
+162,All firms
+163,Female-owned
+164,Male-owned
+165,Equally male-/female-owned
+166,All firms
+167,Female-owned
+168,Male-owned
+169,Equally male-/female-owned
+170,All firms
+171,Female-owned
+172,Male-owned
+173,Equally male-/female-owned
+174,All firms
+175,Female-owned
+176,Male-owned
+177,Equally male-/female-owned
+178,All firms
+179,Female-owned
+180,Male-owned
+181,Equally male-/female-owned
+182,All firms
+183,Female-owned
+184,Male-owned
+185,Equally male-/female-owned
+186,All firms
+187,Female-owned
+188,Male-owned
+189,Equally male-/female-owned
+190,Male-owned
+191,Equally male-/female-owned
+192,All firms
+193,Female-owned
+194,Male-owned
+195,Equally male-/female-owned
+196,Female-owned
+197,Male-owned
+198,Equally male-/female-owned
+199,All firms
+200,All firms
+201,All firms
+202,All firms
+203,Female-owned
+204,Male-owned
+205,Equally male-/female-owned
+206,All firms
+207,All firms
+208,All firms
+209,All firms
+210,Female-owned
+211,Male-owned
+212,Equally male-/female-owned
+213,All firms
+214,All firms
+215,Female-owned
+216,Male-owned
+217,Equally male-/female-owned
+218,All firms
+219,Female-owned
+220,Female-owned
+221,Male-owned
+222,Equally male-/female-owned
+223,All firms
+224,Female-owned
+225,Male-owned
+226,Equally male-/female-owned
+227,Male-owned
+228,Equally male-/female-owned
+229,All firms
+230,Female-owned
+231,Male-owned
+232,Equally male-/female-owned
+233,All firms
+234,Female-owned
+235,Male-owned
+236,Equally male-/female-owned
+237,All firms
+238,Female-owned
+239,Male-owned
+240,Equally male-/female-owned
+241,All firms
+242,Female-owned
+243,Male-owned
+244,Equally male-/female-owned
+245,All firms
+246,Female-owned
+247,All firms
+248,Female-owned
+249,Male-owned
+250,Equally male-/female-owned
+251,All firms
+252,All firms
+253,All firms
+254,All firms
+255,All firms
+256,All firms
+257,All firms
+258,All firms
+259,Female-owned
+260,Male-owned
+261,Equally male-/female-owned
+262,Male-owned
+263,Equally male-/female-owned
+264,"All firms classifiable by gender, ethnicity, race, and veteran status"
+265,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+266,Female-owned
+267,Male-owned
+268,Equally male-/female-owned
+269,All firms
+270,Female-owned
+271,Male-owned
+272,All firms
+273,All firms
+274,All firms
+275,All firms
+276,All firms
+277,All firms
+278,All firms
+279,Equally male-/female-owned
+280,All firms
+281,Female-owned
+282,Male-owned
+283,Equally male-/female-owned
+284,All firms
+285,All firms
+286,Female-owned
+287,Male-owned
+288,Equally male-/female-owned
+289,All firms
+290,Female-owned
+291,Male-owned
+292,Equally male-/female-owned
+293,All firms
+294,Female-owned
+295,Male-owned
+296,Equally male-/female-owned
+297,All firms
+298,Female-owned
+299,Male-owned
+300,Equally male-/female-owned
+301,All firms
+302,Female-owned
+303,All firms
+304,Male-owned
+305,Equally male-/female-owned
+306,All firms
+307,Female-owned
+308,Male-owned
+309,Female-owned
+310,Male-owned
+311,Equally male-/female-owned
+312,All firms
+313,Equally male-/female-owned
+314,All firms
+315,Female-owned
+316,Male-owned
+317,Equally male-/female-owned
+318,All firms
+319,All firms
+320,All firms
+321,Female-owned
+322,Male-owned
+323,Equally male-/female-owned
+324,All firms
+325,Female-owned
+326,All firms
+327,Female-owned
+328,Male-owned
+329,Equally male-/female-owned
+330,All firms
+331,All firms
+332,All firms
+333,All firms
+334,All firms
+335,All firms
+336,All firms
+337,All firms
+338,Female-owned
+339,Male-owned
+340,Equally male-/female-owned
+341,Female-owned
+342,Male-owned
+343,Equally male-/female-owned
+344,All firms
+345,Female-owned
+346,Male-owned
+347,All firms
+348,All firms
+349,All firms
+350,All firms
+351,All firms
+352,All firms
+353,All firms
+354,All firms
+355,Female-owned
+356,Male-owned
+357,Equally male-/female-owned
+358,Equally male-/female-owned
+359,All firms
+360,Female-owned
+361,Male-owned
+362,Equally male-/female-owned
+363,All firms
+364,"All firms classifiable by gender, ethnicity, race, and veteran status"
+365,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+366,All firms
+367,Female-owned
+368,Male-owned
+369,Equally male-/female-owned
+370,All firms
+371,Female-owned
+372,Male-owned
+373,Equally male-/female-owned
+374,All firms
+375,Female-owned
+376,Male-owned
+377,Equally male-/female-owned
+378,All firms
+379,Female-owned
+380,Male-owned
+381,Equally male-/female-owned
+382,All firms
+383,Female-owned
+384,Male-owned
+385,Equally male-/female-owned
+386,All firms
+387,Female-owned
+388,Male-owned
+389,Equally male-/female-owned
+390,All firms
+391,Female-owned
+392,Male-owned
+393,Equally male-/female-owned
+394,All firms
+395,All firms
+396,Female-owned
+397,Male-owned
+398,Equally male-/female-owned
+399,All firms
+400,All firms
+401,Female-owned
+402,Male-owned
+403,Equally male-/female-owned
+404,All firms
+405,Female-owned
+406,Male-owned
+407,Equally male-/female-owned
+408,All firms
+409,Female-owned
+410,Male-owned
+411,Equally male-/female-owned
+412,All firms
+413,All firms
+414,All firms
+415,All firms
+416,All firms
+417,All firms
+418,All firms
+419,All firms
+420,Female-owned
+421,Male-owned
+422,Equally male-/female-owned
+423,Female-owned
+424,Male-owned
+425,Equally male-/female-owned
+426,All firms
+427,Female-owned
+428,Male-owned
+429,Equally male-/female-owned
+430,All firms
+431,Female-owned
+432,Male-owned
+433,Equally male-/female-owned
+434,All firms
+435,Female-owned
+436,All firms
+437,Female-owned
+438,Male-owned
+439,Equally male-/female-owned
+440,Male-owned
+441,Equally male-/female-owned
+442,All firms
+443,Female-owned
+444,Male-owned
+445,Equally male-/female-owned
+446,All firms
+447,Female-owned
+448,Male-owned
+449,Equally male-/female-owned
+450,All firms
+451,Female-owned
+452,All firms
+453,Female-owned
+454,Male-owned
+455,Equally male-/female-owned
+456,Male-owned
+457,Equally male-/female-owned
+458,All firms
+459,Female-owned
+460,Male-owned
+461,Equally male-/female-owned
+462,All firms
+463,Female-owned
+464,Male-owned
+465,Equally male-/female-owned
+466,All firms
+467,Female-owned
+468,Male-owned
+469,All firms
+470,Female-owned
+471,Male-owned
+472,Equally male-/female-owned
+473,Equally male-/female-owned
+474,All firms
+475,Female-owned
+476,Male-owned
+477,Equally male-/female-owned
+478,All firms
+479,Female-owned
+480,Male-owned
+481,Equally male-/female-owned
+482,All firms
+483,Female-owned
+484,Male-owned
+485,Equally male-/female-owned
+486,All firms
+487,Female-owned
+488,Male-owned
+489,Equally male-/female-owned
+490,All firms
+491,All firms
+492,All firms
+493,All firms
+494,All firms
+495,All firms
+496,All firms
+497,All firms
+498,All firms
+499,All firms
+500,Female-owned
+501,Male-owned
+502,Equally male-/female-owned
+503,Female-owned
+504,Male-owned
+505,Equally male-/female-owned
+506,"All firms classifiable by gender, ethnicity, race, and veteran status"
+507,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+508,All firms
+509,Female-owned
+510,Male-owned
+511,Equally male-/female-owned
+512,All firms
+513,All firms
+514,All firms
+515,All firms
+516,All firms
+517,All firms
+518,All firms
+519,All firms
+520,All firms
+521,All firms
+522,All firms
+523,All firms
+524,All firms
+525,All firms
+526,All firms
+527,Female-owned
+528,Male-owned
+529,Equally male-/female-owned
+530,All firms
+531,Female-owned
+532,Male-owned
+533,Equally male-/female-owned
+534,All firms
+535,Female-owned
+536,Male-owned
+537,Equally male-/female-owned
+538,All firms
+539,Female-owned
+540,Male-owned
+541,Equally male-/female-owned
+542,All firms
+543,Female-owned
+544,Male-owned
+545,Equally male-/female-owned
+546,All firms
+547,Female-owned
+548,Male-owned
+549,Equally male-/female-owned
+550,All firms
+551,Female-owned
+552,Male-owned
+553,Equally male-/female-owned
+554,All firms
+555,Female-owned
+556,Male-owned
+557,Equally male-/female-owned
+558,All firms
+559,Female-owned
+560,Male-owned
+561,Equally male-/female-owned
+562,All firms
+563,Female-owned
+564,Male-owned
+565,Equally male-/female-owned
+566,All firms
+567,Female-owned
+568,Male-owned
+569,Equally male-/female-owned
+570,All firms
+571,Female-owned
+572,Male-owned
+573,Equally male-/female-owned
+574,All firms
+575,Female-owned
+576,Male-owned
+577,Equally male-/female-owned
+578,All firms
+579,Female-owned
+580,Male-owned
+581,Equally male-/female-owned
+582,All firms
+583,Female-owned
+584,Male-owned
+585,Equally male-/female-owned
+586,All firms
+587,Female-owned
+588,Male-owned
+589,Equally male-/female-owned
+590,All firms
+591,Female-owned
+592,Male-owned
+593,Equally male-/female-owned
+594,All firms
+595,Female-owned
+596,Male-owned
+597,Equally male-/female-owned
+598,All firms
+599,Female-owned
+600,Male-owned
+601,Equally male-/female-owned
+602,All firms
+603,Female-owned
+604,Male-owned
+605,Equally male-/female-owned
+606,All firms
+607,All firms
+608,Female-owned
+609,Male-owned
+610,Equally male-/female-owned
+611,All firms
+612,Female-owned
+613,Male-owned
+614,Equally male-/female-owned
+615,Female-owned
+616,Male-owned
+617,Equally male-/female-owned
+618,All firms
+619,Female-owned
+620,Male-owned
+621,Equally male-/female-owned
+622,All firms
+623,Female-owned
+624,Male-owned
+625,Equally male-/female-owned
+626,"All firms classifiable by gender, ethnicity, race, and veteran status"
+627,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+628,All firms
+629,Female-owned
+630,Male-owned
+631,Equally male-/female-owned
+632,All firms
+633,Female-owned
+634,Male-owned
+635,Equally male-/female-owned
+636,All firms
+637,Female-owned
+638,Male-owned
+639,Equally male-/female-owned
+640,All firms
+641,Female-owned
+642,Male-owned
+643,Equally male-/female-owned
+644,All firms
+645,Female-owned
+646,Male-owned
+647,Equally male-/female-owned
+648,All firms
+649,Female-owned
+650,Male-owned
+651,Equally male-/female-owned
+652,Equally male-/female-owned
+653,All firms
+654,Female-owned
+655,Male-owned
+656,Equally male-/female-owned
+657,All firms
+658,Female-owned
+659,Male-owned
+660,Equally male-/female-owned
+661,All firms
+662,Female-owned
+663,All firms
+664,Female-owned
+665,Male-owned
+666,Equally male-/female-owned
+667,All firms
+668,Female-owned
+669,Male-owned
+670,All firms
+671,All firms
+672,Female-owned
+673,Male-owned
+674,Equally male-/female-owned
+675,Female-owned
+676,Male-owned
+677,Equally male-/female-owned
+678,"All firms classifiable by gender, ethnicity, race, and veteran status"
+679,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+680,All firms
+681,Female-owned
+682,Male-owned
+683,Equally male-/female-owned
+684,All firms
+685,Female-owned
+686,Male-owned
+687,Equally male-/female-owned
+688,All firms
+689,Female-owned
+690,Male-owned
+691,Equally male-/female-owned
+692,All firms
+693,All firms
+694,All firms
+695,Female-owned
+696,Male-owned
+697,Equally male-/female-owned
+698,All firms
+699,All firms
+700,All firms
+701,All firms
+702,All firms
+703,All firms
+704,All firms
+705,Female-owned
+706,Male-owned
+707,Equally male-/female-owned
+708,All firms
+709,Female-owned
+710,Male-owned
+711,Equally male-/female-owned
+712,All firms
+713,Female-owned
+714,Male-owned
+715,Equally male-/female-owned
+716,All firms
+717,Female-owned
+718,Male-owned
+719,Equally male-/female-owned
+720,All firms
+721,All firms
+722,Female-owned
+723,Male-owned
+724,Equally male-/female-owned
+725,All firms
+726,Female-owned
+727,Male-owned
+728,Equally male-/female-owned
+729,Female-owned
+730,Male-owned
+731,Equally male-/female-owned
+732,All firms
+733,All firms
+734,All firms
+735,All firms
+736,All firms
+737,Female-owned
+738,Male-owned
+739,Equally male-/female-owned
+740,All firms
+741,All firms
+742,All firms
+743,Female-owned
+744,Male-owned
+745,Equally male-/female-owned
+746,All firms
+747,All firms
+748,Female-owned
+749,Male-owned
+750,Equally male-/female-owned
+751,All firms
+752,Female-owned
+753,Male-owned
+754,All firms
+755,All firms
+756,All firms
+757,All firms
+758,All firms
+759,All firms
+760,All firms
+761,Equally male-/female-owned
+762,All firms
+763,Female-owned
+764,Male-owned
+765,Equally male-/female-owned
+766,All firms
+767,Female-owned
+768,Male-owned
+769,Equally male-/female-owned
+770,All firms
+771,Female-owned
+772,Male-owned
+773,Equally male-/female-owned
+774,All firms
+775,Female-owned
+776,Male-owned
+777,Equally male-/female-owned
+778,All firms
+779,Female-owned
+780,Male-owned
+781,Equally male-/female-owned
+782,All firms
+783,Female-owned
+784,Male-owned
+785,Equally male-/female-owned
+786,All firms
+787,Female-owned
+788,Male-owned
+789,Equally male-/female-owned
+790,All firms
+791,All firms
+792,All firms
+793,All firms
+794,All firms
+795,All firms
+796,All firms
+797,Female-owned
+798,Male-owned
+799,Equally male-/female-owned
+800,All firms
+801,Female-owned
+802,Male-owned
+803,Equally male-/female-owned
+804,All firms
+805,Female-owned
+806,Male-owned
+807,Equally male-/female-owned
+808,All firms
+809,Female-owned
+810,Male-owned
+811,Equally male-/female-owned
+812,All firms
+813,Female-owned
+814,Male-owned
+815,Equally male-/female-owned
+816,All firms
+817,All firms
+818,All firms
+819,All firms
+820,All firms
+821,All firms
+822,All firms
+823,Female-owned
+824,Male-owned
+825,Equally male-/female-owned
+826,All firms
+827,All firms
+828,All firms
+829,All firms
+830,All firms
+831,All firms
+832,All firms
+833,All firms
+834,Male-owned
+835,Equally male-/female-owned
+836,All firms
+837,Female-owned
+838,Male-owned
+839,Equally male-/female-owned
+840,All firms
+841,Female-owned
+842,Male-owned
+843,Equally male-/female-owned
+844,All firms
+845,Female-owned
+846,Male-owned
+847,Equally male-/female-owned
+848,All firms
+849,Female-owned
+850,Male-owned
+851,Equally male-/female-owned
+852,All firms
+853,Female-owned
+854,Male-owned
+855,Equally male-/female-owned
+856,All firms
+857,Female-owned
+858,Male-owned
+859,Equally male-/female-owned
+860,All firms
+861,Female-owned
+862,Male-owned
+863,Equally male-/female-owned
+864,All firms
+865,Female-owned
+866,Male-owned
+867,Equally male-/female-owned
+868,All firms
+869,All firms
+870,All firms
+871,Female-owned
+872,Male-owned
+873,Equally male-/female-owned
+874,All firms
+875,Female-owned
+876,Male-owned
+877,Equally male-/female-owned
+878,All firms
+879,Female-owned
+880,Male-owned
+881,Equally male-/female-owned
+882,All firms
+883,Female-owned
+884,Male-owned
+885,Equally male-/female-owned
+886,All firms
+887,Female-owned
+888,Male-owned
+889,Equally male-/female-owned
+890,All firms
+891,Female-owned
+892,Male-owned
+893,Equally male-/female-owned
+894,All firms
+895,Female-owned
+896,Male-owned
+897,Equally male-/female-owned
+898,All firms
+899,All firms
+900,Female-owned
+901,Male-owned
+902,Equally male-/female-owned
+903,All firms
+904,Female-owned
+905,Female-owned
+906,Male-owned
+907,Equally male-/female-owned
+908,All firms
+909,All firms
+910,All firms
+911,Male-owned
+912,Equally male-/female-owned
+913,All firms
+914,Female-owned
+915,Male-owned
+916,Equally male-/female-owned
+917,All firms
+918,Female-owned
+919,Male-owned
+920,Equally male-/female-owned
+921,All firms
+922,Female-owned
+923,Male-owned
+924,Equally male-/female-owned
+925,All firms
+926,All firms
+927,All firms
+928,All firms
+929,All firms
+930,All firms
+931,All firms
+932,"All firms classifiable by gender, ethnicity, race, and veteran status"
+933,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+934,All firms
+935,Female-owned
+936,Male-owned
+937,Equally male-/female-owned
+938,All firms
+939,Female-owned
+940,Male-owned
+941,Equally male-/female-owned
+942,All firms
+943,Female-owned
+944,Male-owned
+945,Equally male-/female-owned
+946,All firms
+947,All firms
+948,All firms
+949,All firms
+950,Female-owned
+951,Male-owned
+952,Equally male-/female-owned
+953,All firms
+954,Female-owned
+955,Male-owned
+956,Equally male-/female-owned
+957,All firms
+958,All firms
+959,Female-owned
+960,Male-owned
+961,Equally male-/female-owned
+962,All firms
+963,Female-owned
+964,Male-owned
+965,Equally male-/female-owned
+966,All firms
+967,Female-owned
+968,Male-owned
+969,Equally male-/female-owned
+970,All firms
+971,Female-owned
+972,Male-owned
+973,All firms
+974,Female-owned
+975,Male-owned
+976,Equally male-/female-owned
+977,Equally male-/female-owned
+978,All firms
+979,Female-owned
+980,Male-owned
+981,Equally male-/female-owned
+982,All firms
+983,Female-owned
+984,Male-owned
+985,Equally male-/female-owned
+986,All firms
+987,All firms
+988,Female-owned
+989,Male-owned
+990,Equally male-/female-owned
+991,All firms
+992,All firms
+993,All firms
+994,Female-owned
+995,Male-owned
+996,Equally male-/female-owned
+997,Female-owned
+998,Male-owned
+999,Equally male-/female-owned
+1000,All firms
+1001,All firms
+1002,All firms
+1003,All firms
+1004,All firms
+1005,All firms
+1006,All firms
+1007,Female-owned
+1008,Male-owned
+1009,Equally male-/female-owned
+1010,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1011,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1012,All firms
+1013,Female-owned
+1014,Male-owned
+1015,Equally male-/female-owned
+1016,All firms
+1017,All firms
+1018,All firms
+1019,All firms
+1020,All firms
+1021,All firms
+1022,All firms
+1023,Female-owned
+1024,Male-owned
+1025,Equally male-/female-owned
+1026,All firms
+1027,Female-owned
+1028,Male-owned
+1029,Equally male-/female-owned
+1030,All firms
+1031,All firms
+1032,All firms
+1033,All firms
+1034,All firms
+1035,All firms
+1036,All firms
+1037,All firms
+1038,All firms
+1039,All firms
+1040,Female-owned
+1041,Male-owned
+1042,Equally male-/female-owned
+1043,All firms
+1044,Female-owned
+1045,Male-owned
+1046,Equally male-/female-owned
+1047,All firms
+1048,Female-owned
+1049,Male-owned
+1050,Equally male-/female-owned
+1051,All firms
+1052,Female-owned
+1053,Male-owned
+1054,Equally male-/female-owned
+1055,All firms
+1056,Female-owned
+1057,Male-owned
+1058,Equally male-/female-owned
+1059,All firms
+1060,Female-owned
+1061,Male-owned
+1062,Equally male-/female-owned
+1063,All firms
+1064,Female-owned
+1065,Male-owned
+1066,Equally male-/female-owned
+1067,All firms
+1068,Female-owned
+1069,Male-owned
+1070,Equally male-/female-owned
+1071,Female-owned
+1072,Male-owned
+1073,Equally male-/female-owned
+1074,All firms
+1075,All firms
+1076,Female-owned
+1077,Male-owned
+1078,Equally male-/female-owned
+1079,All firms
+1080,All firms
+1081,Female-owned
+1082,Male-owned
+1083,Equally male-/female-owned
+1084,All firms
+1085,Female-owned
+1086,Male-owned
+1087,Equally male-/female-owned
+1088,All firms
+1089,Female-owned
+1090,Male-owned
+1091,Equally male-/female-owned
+1092,All firms
+1093,Female-owned
+1094,All firms
+1095,Female-owned
+1096,Male-owned
+1097,Equally male-/female-owned
+1098,All firms
+1099,All firms
+1100,All firms
+1101,All firms
+1102,All firms
+1103,All firms
+1104,All firms
+1105,Female-owned
+1106,Male-owned
+1107,Equally male-/female-owned
+1108,Male-owned
+1109,Equally male-/female-owned
+1110,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1111,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1112,All firms
+1113,Female-owned
+1114,Male-owned
+1115,Equally male-/female-owned
+1116,All firms
+1117,Female-owned
+1118,Male-owned
+1119,Equally male-/female-owned
+1120,All firms
+1121,Female-owned
+1122,Male-owned
+1123,Equally male-/female-owned
+1124,All firms
+1125,Female-owned
+1126,Male-owned
+1127,Equally male-/female-owned
+1128,All firms
+1129,Female-owned
+1130,Male-owned
+1131,Equally male-/female-owned
+1132,All firms
+1133,Female-owned
+1134,Male-owned
+1135,Equally male-/female-owned
+1136,All firms
+1137,Female-owned
+1138,Male-owned
+1139,Equally male-/female-owned
+1140,All firms
+1141,Female-owned
+1142,Male-owned
+1143,Equally male-/female-owned
+1144,All firms
+1145,Female-owned
+1146,Male-owned
+1147,Equally male-/female-owned
+1148,Male-owned
+1149,Equally male-/female-owned
+1150,All firms
+1151,Female-owned
+1152,Male-owned
+1153,Equally male-/female-owned
+1154,All firms
+1155,Female-owned
+1156,Male-owned
+1157,Equally male-/female-owned
+1158,All firms
+1159,Female-owned
+1160,Male-owned
+1161,Equally male-/female-owned
+1162,All firms
+1163,Female-owned
+1164,Male-owned
+1165,Equally male-/female-owned
+1166,All firms
+1167,Female-owned
+1168,Male-owned
+1169,Equally male-/female-owned
+1170,All firms
+1171,Female-owned
+1172,Male-owned
+1173,Equally male-/female-owned
+1174,All firms
+1175,Female-owned
+1176,Male-owned
+1177,Equally male-/female-owned
+1178,All firms
+1179,Female-owned
+1180,Male-owned
+1181,Equally male-/female-owned
+1182,All firms
+1183,Female-owned
+1184,Male-owned
+1185,Equally male-/female-owned
+1186,All firms
+1187,Female-owned
+1188,Male-owned
+1189,Equally male-/female-owned
+1190,All firms
+1191,Female-owned
+1192,Male-owned
+1193,Equally male-/female-owned
+1194,All firms
+1195,Female-owned
+1196,Male-owned
+1197,Equally male-/female-owned
+1198,All firms
+1199,Female-owned
+1200,Male-owned
+1201,Equally male-/female-owned
+1202,All firms
+1203,Female-owned
+1204,Male-owned
+1205,Equally male-/female-owned
+1206,All firms
+1207,Female-owned
+1208,Male-owned
+1209,Equally male-/female-owned
+1210,All firms
+1211,All firms
+1212,Female-owned
+1213,Male-owned
+1214,Equally male-/female-owned
+1215,Female-owned
+1216,Male-owned
+1217,Equally male-/female-owned
+1218,All firms
+1219,All firms
+1220,All firms
+1221,Female-owned
+1222,Male-owned
+1223,Equally male-/female-owned
+1224,All firms
+1225,All firms
+1226,All firms
+1227,All firms
+1228,All firms
+1229,Female-owned
+1230,Male-owned
+1231,Equally male-/female-owned
+1232,All firms
+1233,Female-owned
+1234,Male-owned
+1235,Equally male-/female-owned
+1236,All firms
+1237,All firms
+1238,All firms
+1239,All firms
+1240,All firms
+1241,All firms
+1242,All firms
+1243,All firms
+1244,Female-owned
+1245,Male-owned
+1246,Equally male-/female-owned
+1247,All firms
+1248,Female-owned
+1249,Male-owned
+1250,Equally male-/female-owned
+1251,All firms
+1252,All firms
+1253,Female-owned
+1254,Male-owned
+1255,Equally male-/female-owned
+1256,All firms
+1257,All firms
+1258,All firms
+1259,Female-owned
+1260,Male-owned
+1261,Equally male-/female-owned
+1262,All firms
+1263,Female-owned
+1264,Male-owned
+1265,Equally male-/female-owned
+1266,All firms
+1267,Female-owned
+1268,Male-owned
+1269,Equally male-/female-owned
+1270,All firms
+1271,All firms
+1272,All firms
+1273,All firms
+1274,All firms
+1275,All firms
+1276,All firms
+1277,Female-owned
+1278,All firms
+1279,Female-owned
+1280,Male-owned
+1281,Equally male-/female-owned
+1282,All firms
+1283,All firms
+1284,Female-owned
+1285,Male-owned
+1286,Equally male-/female-owned
+1287,All firms
+1288,Female-owned
+1289,Male-owned
+1290,Equally male-/female-owned
+1291,All firms
+1292,All firms
+1293,Female-owned
+1294,Male-owned
+1295,Equally male-/female-owned
+1296,All firms
+1297,All firms
+1298,All firms
+1299,All firms
+1300,All firms
+1301,All firms
+1302,Female-owned
+1303,Male-owned
+1304,Equally male-/female-owned
+1305,All firms
+1306,Female-owned
+1307,Male-owned
+1308,Equally male-/female-owned
+1309,All firms
+1310,Female-owned
+1311,Male-owned
+1312,Equally male-/female-owned
+1313,All firms
+1314,Female-owned
+1315,Male-owned
+1316,Equally male-/female-owned
+1317,All firms
+1318,Female-owned
+1319,Male-owned
+1320,Equally male-/female-owned
+1321,All firms
+1322,Female-owned
+1323,Male-owned
+1324,Equally male-/female-owned
+1325,All firms
+1326,Female-owned
+1327,Male-owned
+1328,Equally male-/female-owned
+1329,All firms
+1330,Female-owned
+1331,Male-owned
+1332,Equally male-/female-owned
+1333,All firms
+1334,Female-owned
+1335,Male-owned
+1336,Equally male-/female-owned
+1337,All firms
+1338,Female-owned
+1339,Male-owned
+1340,Equally male-/female-owned
+1341,All firms
+1342,Female-owned
+1343,Male-owned
+1344,Equally male-/female-owned
+1345,All firms
+1346,All firms
+1347,All firms
+1348,All firms
+1349,All firms
+1350,All firms
+1351,All firms
+1352,Female-owned
+1353,Male-owned
+1354,Equally male-/female-owned
+1355,All firms
+1356,Female-owned
+1357,Male-owned
+1358,Equally male-/female-owned
+1359,All firms
+1360,All firms
+1361,All firms
+1362,All firms
+1363,All firms
+1364,All firms
+1365,All firms
+1366,All firms
+1367,Female-owned
+1368,Male-owned
+1369,Equally male-/female-owned
+1370,All firms
+1371,All firms
+1372,All firms
+1373,Female-owned
+1374,Male-owned
+1375,Equally male-/female-owned
+1376,All firms
+1377,Female-owned
+1378,Male-owned
+1379,Equally male-/female-owned
+1380,Female-owned
+1381,Male-owned
+1382,Equally male-/female-owned
+1383,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1384,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1385,All firms
+1386,Female-owned
+1387,Male-owned
+1388,Equally male-/female-owned
+1389,All firms
+1390,Female-owned
+1391,Male-owned
+1392,Equally male-/female-owned
+1393,All firms
+1394,Female-owned
+1395,Male-owned
+1396,Equally male-/female-owned
+1397,All firms
+1398,Female-owned
+1399,Male-owned
+1400,Equally male-/female-owned
+1401,All firms
+1402,Female-owned
+1403,Male-owned
+1404,Equally male-/female-owned
+1405,All firms
+1406,Female-owned
+1407,Male-owned
+1408,Equally male-/female-owned
+1409,All firms
+1410,Female-owned
+1411,Male-owned
+1412,Equally male-/female-owned
+1413,All firms
+1414,Female-owned
+1415,Male-owned
+1416,Equally male-/female-owned
+1417,All firms
+1418,Female-owned
+1419,All firms
+1420,Male-owned
+1421,Equally male-/female-owned
+1422,All firms
+1423,Female-owned
+1424,Male-owned
+1425,Equally male-/female-owned
+1426,All firms
+1427,Female-owned
+1428,Male-owned
+1429,Equally male-/female-owned
+1430,All firms
+1431,Female-owned
+1432,Male-owned
+1433,Equally male-/female-owned
+1434,All firms
+1435,Female-owned
+1436,Male-owned
+1437,Equally male-/female-owned
+1438,All firms
+1439,Female-owned
+1440,Male-owned
+1441,Equally male-/female-owned
+1442,All firms
+1443,Female-owned
+1444,Male-owned
+1445,Equally male-/female-owned
+1446,All firms
+1447,Female-owned
+1448,Male-owned
+1449,Equally male-/female-owned
+1450,All firms
+1451,All firms
+1452,All firms
+1453,Female-owned
+1454,All firms
+1455,Female-owned
+1456,Male-owned
+1457,Equally male-/female-owned
+1458,Male-owned
+1459,Equally male-/female-owned
+1460,All firms
+1461,All firms
+1462,All firms
+1463,All firms
+1464,All firms
+1465,All firms
+1466,All firms
+1467,All firms
+1468,Female-owned
+1469,Male-owned
+1470,Equally male-/female-owned
+1471,All firms
+1472,Female-owned
+1473,Female-owned
+1474,Male-owned
+1475,Equally male-/female-owned
+1476,All firms
+1477,Female-owned
+1478,Male-owned
+1479,Equally male-/female-owned
+1480,Male-owned
+1481,Equally male-/female-owned
+1482,All firms
+1483,Female-owned
+1484,Male-owned
+1485,Equally male-/female-owned
+1486,All firms
+1487,Female-owned
+1488,Male-owned
+1489,Equally male-/female-owned
+1490,All firms
+1491,Female-owned
+1492,Male-owned
+1493,Equally male-/female-owned
+1494,All firms
+1495,Female-owned
+1496,Male-owned
+1497,Equally male-/female-owned
+1498,All firms
+1499,All firms
+1500,Female-owned
+1501,Male-owned
+1502,Equally male-/female-owned
+1503,All firms
+1504,Female-owned
+1505,Male-owned
+1506,Equally male-/female-owned
+1507,Female-owned
+1508,Male-owned
+1509,Equally male-/female-owned
+1510,All firms
+1511,All firms
+1512,All firms
+1513,Female-owned
+1514,Male-owned
+1515,Equally male-/female-owned
+1516,All firms
+1517,All firms
+1518,All firms
+1519,All firms
+1520,All firms
+1521,Female-owned
+1522,Male-owned
+1523,Equally male-/female-owned
+1524,All firms
+1525,Female-owned
+1526,Male-owned
+1527,Equally male-/female-owned
+1528,All firms
+1529,All firms
+1530,All firms
+1531,All firms
+1532,All firms
+1533,All firms
+1534,All firms
+1535,All firms
+1536,All firms
+1537,Female-owned
+1538,Male-owned
+1539,Equally male-/female-owned
+1540,All firms
+1541,Female-owned
+1542,Male-owned
+1543,Equally male-/female-owned
+1544,All firms
+1545,Female-owned
+1546,Male-owned
+1547,Equally male-/female-owned
+1548,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1549,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1550,All firms
+1551,All firms
+1552,All firms
+1553,All firms
+1554,All firms
+1555,Female-owned
+1556,Male-owned
+1557,Equally male-/female-owned
+1558,All firms
+1559,Female-owned
+1560,Male-owned
+1561,Equally male-/female-owned
+1562,All firms
+1563,Female-owned
+1564,Male-owned
+1565,Equally male-/female-owned
+1566,All firms
+1567,Female-owned
+1568,Male-owned
+1569,Equally male-/female-owned
+1570,All firms
+1571,Female-owned
+1572,Male-owned
+1573,Equally male-/female-owned
+1574,All firms
+1575,All firms
+1576,All firms
+1577,All firms
+1578,All firms
+1579,All firms
+1580,All firms
+1581,Female-owned
+1582,Male-owned
+1583,Equally male-/female-owned
+1584,All firms
+1585,All firms
+1586,All firms
+1587,All firms
+1588,All firms
+1589,All firms
+1590,All firms
+1591,All firms
+1592,All firms
+1593,Female-owned
+1594,Male-owned
+1595,Equally male-/female-owned
+1596,All firms
+1597,Female-owned
+1598,Male-owned
+1599,Equally male-/female-owned
+1600,All firms
+1601,Female-owned
+1602,Male-owned
+1603,Equally male-/female-owned
+1604,All firms
+1605,Female-owned
+1606,Male-owned
+1607,Equally male-/female-owned
+1608,All firms
+1609,Female-owned
+1610,Male-owned
+1611,Equally male-/female-owned
+1612,All firms
+1613,Female-owned
+1614,Male-owned
+1615,Equally male-/female-owned
+1616,All firms
+1617,All firms
+1618,All firms
+1619,Female-owned
+1620,Male-owned
+1621,Equally male-/female-owned
+1622,All firms
+1623,All firms
+1624,Female-owned
+1625,Male-owned
+1626,Equally male-/female-owned
+1627,All firms
+1628,Female-owned
+1629,Male-owned
+1630,Equally male-/female-owned
+1631,All firms
+1632,Female-owned
+1633,Male-owned
+1634,Equally male-/female-owned
+1635,All firms
+1636,Female-owned
+1637,Male-owned
+1638,Equally male-/female-owned
+1639,All firms
+1640,Female-owned
+1641,Male-owned
+1642,Equally male-/female-owned
+1643,All firms
+1644,Female-owned
+1645,Male-owned
+1646,Equally male-/female-owned
+1647,All firms
+1648,Female-owned
+1649,Male-owned
+1650,Equally male-/female-owned
+1651,All firms
+1652,Female-owned
+1653,Male-owned
+1654,All firms
+1655,Female-owned
+1656,Male-owned
+1657,Equally male-/female-owned
+1658,All firms
+1659,Female-owned
+1660,Male-owned
+1661,Equally male-/female-owned
+1662,All firms
+1663,Female-owned
+1664,Male-owned
+1665,Equally male-/female-owned
+1666,All firms
+1667,Female-owned
+1668,Equally male-/female-owned
+1669,All firms
+1670,Female-owned
+1671,Male-owned
+1672,Equally male-/female-owned
+1673,Male-owned
+1674,Equally male-/female-owned
+1675,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1676,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1677,All firms
+1678,Female-owned
+1679,Male-owned
+1680,Equally male-/female-owned
+1681,All firms
+1682,Female-owned
+1683,Male-owned
+1684,Equally male-/female-owned
+1685,All firms
+1686,All firms
+1687,Female-owned
+1688,Male-owned
+1689,Equally male-/female-owned
+1690,All firms
+1691,All firms
+1692,All firms
+1693,All firms
+1694,Female-owned
+1695,Male-owned
+1696,Equally male-/female-owned
+1697,All firms
+1698,All firms
+1699,All firms
+1700,All firms
+1701,Female-owned
+1702,Male-owned
+1703,Equally male-/female-owned
+1704,All firms
+1705,Female-owned
+1706,Male-owned
+1707,All firms
+1708,Female-owned
+1709,Male-owned
+1710,Equally male-/female-owned
+1711,All firms
+1712,Female-owned
+1713,Male-owned
+1714,Equally male-/female-owned
+1715,All firms
+1716,Female-owned
+1717,Male-owned
+1718,Equally male-/female-owned
+1719,All firms
+1720,Female-owned
+1721,Male-owned
+1722,Equally male-/female-owned
+1723,All firms
+1724,Female-owned
+1725,Male-owned
+1726,Equally male-/female-owned
+1727,All firms
+1728,Female-owned
+1729,Male-owned
+1730,Equally male-/female-owned
+1731,All firms
+1732,Female-owned
+1733,Male-owned
+1734,Equally male-/female-owned
+1735,All firms
+1736,Female-owned
+1737,Male-owned
+1738,Equally male-/female-owned
+1739,All firms
+1740,Female-owned
+1741,Male-owned
+1742,Equally male-/female-owned
+1743,All firms
+1744,All firms
+1745,Female-owned
+1746,Male-owned
+1747,Equally male-/female-owned
+1748,All firms
+1749,Female-owned
+1750,Male-owned
+1751,Equally male-/female-owned
+1752,Equally male-/female-owned
+1753,All firms
+1754,Female-owned
+1755,Male-owned
+1756,Equally male-/female-owned
+1757,Female-owned
+1758,Male-owned
+1759,Equally male-/female-owned
+1760,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1761,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1762,All firms
+1763,Female-owned
+1764,Male-owned
+1765,Equally male-/female-owned
+1766,All firms
+1767,Female-owned
+1768,Male-owned
+1769,Equally male-/female-owned
+1770,All firms
+1771,All firms
+1772,Female-owned
+1773,Male-owned
+1774,Equally male-/female-owned
+1775,All firms
+1776,Female-owned
+1777,Male-owned
+1778,Equally male-/female-owned
+1779,Female-owned
+1780,Male-owned
+1781,Equally male-/female-owned
+1782,All firms
+1783,All firms
+1784,All firms
+1785,All firms
+1786,All firms
+1787,Female-owned
+1788,Male-owned
+1789,Equally male-/female-owned
+1790,All firms
+1791,All firms
+1792,All firms
+1793,Female-owned
+1794,Male-owned
+1795,Equally male-/female-owned
+1796,All firms
+1797,All firms
+1798,Female-owned
+1799,Male-owned
+1800,Equally male-/female-owned
+1801,All firms
+1802,All firms
+1803,All firms
+1804,All firms
+1805,All firms
+1806,All firms
+1807,All firms
+1808,All firms
+1809,Female-owned
+1810,Male-owned
+1811,Equally male-/female-owned
+1812,All firms
+1813,Female-owned
+1814,Male-owned
+1815,Equally male-/female-owned
+1816,All firms
+1817,All firms
+1818,Female-owned
+1819,Male-owned
+1820,Equally male-/female-owned
+1821,All firms
+1822,Female-owned
+1823,Male-owned
+1824,Equally male-/female-owned
+1825,All firms
+1826,Female-owned
+1827,Male-owned
+1828,Equally male-/female-owned
+1829,All firms
+1830,Female-owned
+1831,Male-owned
+1832,Equally male-/female-owned
+1833,All firms
+1834,Female-owned
+1835,Male-owned
+1836,Equally male-/female-owned
+1837,All firms
+1838,Female-owned
+1839,Male-owned
+1840,Equally male-/female-owned
+1841,All firms
+1842,All firms
+1843,All firms
+1844,Female-owned
+1845,Male-owned
+1846,Equally male-/female-owned
+1847,All firms
+1848,All firms
+1849,Female-owned
+1850,Male-owned
+1851,Equally male-/female-owned
+1852,Female-owned
+1853,Male-owned
+1854,Equally male-/female-owned
+1855,All firms
+1856,Female-owned
+1857,All firms
+1858,All firms
+1859,All firms
+1860,All firms
+1861,All firms
+1862,All firms
+1863,All firms
+1864,Female-owned
+1865,Male-owned
+1866,Equally male-/female-owned
+1867,Male-owned
+1868,Equally male-/female-owned
+1869,All firms
+1870,Female-owned
+1871,Male-owned
+1872,Equally male-/female-owned
+1873,All firms
+1874,Female-owned
+1875,Male-owned
+1876,Equally male-/female-owned
+1877,All firms
+1878,Female-owned
+1879,Male-owned
+1880,Equally male-/female-owned
+1881,All firms
+1882,All firms
+1883,Female-owned
+1884,Male-owned
+1885,Equally male-/female-owned
+1886,All firms
+1887,Female-owned
+1888,Male-owned
+1889,Equally male-/female-owned
+1890,Female-owned
+1891,Male-owned
+1892,Equally male-/female-owned
+1893,All firms
+1894,Female-owned
+1895,Male-owned
+1896,Equally male-/female-owned
+1897,All firms
+1898,Female-owned
+1899,Male-owned
+1900,Equally male-/female-owned
+1901,All firms
+1902,Female-owned
+1903,Male-owned
+1904,Equally male-/female-owned
+1905,All firms
+1906,All firms
+1907,All firms
+1908,All firms
+1909,All firms
+1910,All firms
+1911,All firms
+1912,All firms
+1913,Female-owned
+1914,Male-owned
+1915,Female-owned
+1916,Male-owned
+1917,Equally male-/female-owned
+1918,All firms
+1919,Female-owned
+1920,Male-owned
+1921,Equally male-/female-owned
+1922,Equally male-/female-owned
+1923,All firms
+1924,All firms
+1925,All firms
+1926,All firms
+1927,All firms
+1928,All firms
+1929,All firms
+1930,All firms
+1931,Female-owned
+1932,Male-owned
+1933,Equally male-/female-owned
+1934,All firms
+1935,All firms
+1936,Female-owned
+1937,Male-owned
+1938,All firms
+1939,Female-owned
+1940,Male-owned
+1941,Equally male-/female-owned
+1942,All firms
+1943,Female-owned
+1944,Equally male-/female-owned
+1945,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1946,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1947,Male-owned
+1948,Equally male-/female-owned
+1949,All firms
+1950,Female-owned
+1951,Male-owned
+1952,Equally male-/female-owned
+1953,All firms
+1954,Female-owned
+1955,Male-owned
+1956,Equally male-/female-owned
+1957,All firms
+1958,All firms
+1959,All firms
+1960,All firms
+1961,All firms
+1962,All firms
+1963,All firms
+1964,All firms
+1965,All firms
+1966,All firms
+1967,Female-owned
+1968,Male-owned
+1969,Equally male-/female-owned
+1970,All firms
+1971,All firms
+1972,Female-owned
+1973,Male-owned
+1974,Equally male-/female-owned
+1975,"All firms classifiable by gender, ethnicity, race, and veteran status"
+1976,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+1977,Female-owned
+1978,Male-owned
+1979,Equally male-/female-owned
+1980,All firms
+1981,Female-owned
+1982,Male-owned
+1983,Equally male-/female-owned
+1984,All firms
+1985,Female-owned
+1986,Male-owned
+1987,Equally male-/female-owned
+1988,All firms
+1989,Female-owned
+1990,Male-owned
+1991,Equally male-/female-owned
+1992,All firms
+1993,Female-owned
+1994,Male-owned
+1995,Equally male-/female-owned
+1996,All firms
+1997,Female-owned
+1998,Male-owned
+1999,Equally male-/female-owned
+2000,All firms
+2001,Female-owned
+2002,Male-owned
+2003,Equally male-/female-owned
+2004,All firms
+2005,Female-owned
+2006,Male-owned
+2007,Equally male-/female-owned
+2008,All firms
+2009,All firms
+2010,Female-owned
+2011,Male-owned
+2012,Equally male-/female-owned
+2013,Female-owned
+2014,Male-owned
+2015,Equally male-/female-owned
+2016,All firms
+2017,All firms
+2018,Female-owned
+2019,Male-owned
+2020,Equally male-/female-owned
+2021,All firms
+2022,All firms
+2023,Female-owned
+2024,Male-owned
+2025,Equally male-/female-owned
+2026,All firms
+2027,Female-owned
+2028,Male-owned
+2029,Equally male-/female-owned
+2030,All firms
+2031,All firms
+2032,All firms
+2033,Female-owned
+2034,Male-owned
+2035,Equally male-/female-owned
+2036,All firms
+2037,All firms
+2038,All firms
+2039,All firms
+2040,All firms
+2041,Female-owned
+2042,Male-owned
+2043,Equally male-/female-owned
+2044,All firms
+2045,All firms
+2046,Female-owned
+2047,Male-owned
+2048,Equally male-/female-owned
+2049,All firms
+2050,Female-owned
+2051,Male-owned
+2052,Equally male-/female-owned
+2053,Female-owned
+2054,Male-owned
+2055,Equally male-/female-owned
+2056,All firms
+2057,Female-owned
+2058,Male-owned
+2059,Equally male-/female-owned
+2060,All firms
+2061,Female-owned
+2062,Male-owned
+2063,Equally male-/female-owned
+2064,All firms
+2065,Female-owned
+2066,Male-owned
+2067,Equally male-/female-owned
+2068,All firms
+2069,Female-owned
+2070,Male-owned
+2071,Equally male-/female-owned
+2072,All firms
+2073,Female-owned
+2074,Male-owned
+2075,Equally male-/female-owned
+2076,All firms
+2077,Female-owned
+2078,Male-owned
+2079,Equally male-/female-owned
+2080,All firms
+2081,All firms
+2082,Female-owned
+2083,Male-owned
+2084,Equally male-/female-owned
+2085,All firms
+2086,All firms
+2087,All firms
+2088,All firms
+2089,All firms
+2090,All firms
+2091,Female-owned
+2092,Male-owned
+2093,Equally male-/female-owned
+2094,All firms
+2095,Female-owned
+2096,Male-owned
+2097,Equally male-/female-owned
+2098,All firms
+2099,Female-owned
+2100,Male-owned
+2101,Equally male-/female-owned
+2102,All firms
+2103,Female-owned
+2104,All firms
+2105,Male-owned
+2106,Equally male-/female-owned
+2107,All firms
+2108,Female-owned
+2109,Male-owned
+2110,Equally male-/female-owned
+2111,Female-owned
+2112,Male-owned
+2113,Equally male-/female-owned
+2114,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2115,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2116,All firms
+2117,Female-owned
+2118,Male-owned
+2119,Equally male-/female-owned
+2120,All firms
+2121,Female-owned
+2122,Male-owned
+2123,Equally male-/female-owned
+2124,All firms
+2125,Female-owned
+2126,Male-owned
+2127,Equally male-/female-owned
+2128,All firms
+2129,Female-owned
+2130,Male-owned
+2131,Equally male-/female-owned
+2132,Female-owned
+2133,Male-owned
+2134,Equally male-/female-owned
+2135,All firms
+2136,All firms
+2137,Female-owned
+2138,Male-owned
+2139,Equally male-/female-owned
+2140,All firms
+2141,Female-owned
+2142,Male-owned
+2143,Equally male-/female-owned
+2144,All firms
+2145,All firms
+2146,Female-owned
+2147,Male-owned
+2148,Equally male-/female-owned
+2149,All firms
+2150,Female-owned
+2151,Male-owned
+2152,Equally male-/female-owned
+2153,All firms
+2154,Female-owned
+2155,Male-owned
+2156,Equally male-/female-owned
+2157,All firms
+2158,Female-owned
+2159,Male-owned
+2160,Equally male-/female-owned
+2161,All firms
+2162,Female-owned
+2163,Male-owned
+2164,Equally male-/female-owned
+2165,All firms
+2166,Female-owned
+2167,Male-owned
+2168,Equally male-/female-owned
+2169,All firms
+2170,Female-owned
+2171,Male-owned
+2172,Equally male-/female-owned
+2173,All firms
+2174,Female-owned
+2175,Male-owned
+2176,Equally male-/female-owned
+2177,All firms
+2178,Female-owned
+2179,Male-owned
+2180,Equally male-/female-owned
+2181,All firms
+2182,All firms
+2183,Female-owned
+2184,Male-owned
+2185,Equally male-/female-owned
+2186,All firms
+2187,All firms
+2188,All firms
+2189,All firms
+2190,All firms
+2191,All firms
+2192,All firms
+2193,Female-owned
+2194,Male-owned
+2195,Equally male-/female-owned
+2196,All firms
+2197,Female-owned
+2198,Male-owned
+2199,Equally male-/female-owned
+2200,All firms
+2201,Female-owned
+2202,Male-owned
+2203,Equally male-/female-owned
+2204,All firms
+2205,Female-owned
+2206,Male-owned
+2207,Equally male-/female-owned
+2208,All firms
+2209,Female-owned
+2210,Male-owned
+2211,Equally male-/female-owned
+2212,All firms
+2213,All firms
+2214,All firms
+2215,All firms
+2216,All firms
+2217,All firms
+2218,All firms
+2219,Female-owned
+2220,Male-owned
+2221,Equally male-/female-owned
+2222,All firms
+2223,All firms
+2224,All firms
+2225,All firms
+2226,All firms
+2227,All firms
+2228,All firms
+2229,All firms
+2230,Male-owned
+2231,Equally male-/female-owned
+2232,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2233,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2234,All firms
+2235,Female-owned
+2236,All firms
+2237,All firms
+2238,All firms
+2239,All firms
+2240,Female-owned
+2241,Male-owned
+2242,Equally male-/female-owned
+2243,All firms
+2244,Female-owned
+2245,All firms
+2246,Female-owned
+2247,Male-owned
+2248,Equally male-/female-owned
+2249,Male-owned
+2250,Equally male-/female-owned
+2251,All firms
+2252,Female-owned
+2253,Male-owned
+2254,Equally male-/female-owned
+2255,All firms
+2256,Female-owned
+2257,Male-owned
+2258,Equally male-/female-owned
+2259,All firms
+2260,Female-owned
+2261,Male-owned
+2262,Equally male-/female-owned
+2263,All firms
+2264,Female-owned
+2265,Male-owned
+2266,Equally male-/female-owned
+2267,All firms
+2268,Female-owned
+2269,Male-owned
+2270,Equally male-/female-owned
+2271,All firms
+2272,Female-owned
+2273,Male-owned
+2274,Equally male-/female-owned
+2275,All firms
+2276,Female-owned
+2277,Male-owned
+2278,Equally male-/female-owned
+2279,All firms
+2280,Female-owned
+2281,Male-owned
+2282,Equally male-/female-owned
+2283,All firms
+2284,Female-owned
+2285,Male-owned
+2286,Equally male-/female-owned
+2287,All firms
+2288,Female-owned
+2289,Male-owned
+2290,Equally male-/female-owned
+2291,All firms
+2292,Female-owned
+2293,Male-owned
+2294,Equally male-/female-owned
+2295,All firms
+2296,Female-owned
+2297,Male-owned
+2298,Equally male-/female-owned
+2299,All firms
+2300,Female-owned
+2301,Male-owned
+2302,Equally male-/female-owned
+2303,All firms
+2304,Female-owned
+2305,Male-owned
+2306,Equally male-/female-owned
+2307,All firms
+2308,Female-owned
+2309,Male-owned
+2310,Equally male-/female-owned
+2311,All firms
+2312,Female-owned
+2313,Male-owned
+2314,Equally male-/female-owned
+2315,All firms
+2316,All firms
+2317,All firms
+2318,All firms
+2319,All firms
+2320,All firms
+2321,All firms
+2322,All firms
+2323,Female-owned
+2324,Male-owned
+2325,Equally male-/female-owned
+2326,Female-owned
+2327,Male-owned
+2328,Equally male-/female-owned
+2329,All firms
+2330,All firms
+2331,All firms
+2332,All firms
+2333,All firms
+2334,All firms
+2335,All firms
+2336,All firms
+2337,Female-owned
+2338,Male-owned
+2339,Equally male-/female-owned
+2340,All firms
+2341,Female-owned
+2342,All firms
+2343,All firms
+2344,Female-owned
+2345,Male-owned
+2346,Male-owned
+2347,Equally male-/female-owned
+2348,All firms
+2349,Equally male-/female-owned
+2350,All firms
+2351,Female-owned
+2352,Male-owned
+2353,Equally male-/female-owned
+2354,All firms
+2355,All firms
+2356,All firms
+2357,Female-owned
+2358,Male-owned
+2359,Equally male-/female-owned
+2360,Female-owned
+2361,Male-owned
+2362,Equally male-/female-owned
+2363,All firms
+2364,All firms
+2365,All firms
+2366,All firms
+2367,All firms
+2368,All firms
+2369,All firms
+2370,All firms
+2371,All firms
+2372,All firms
+2373,All firms
+2374,All firms
+2375,Female-owned
+2376,Male-owned
+2377,Equally male-/female-owned
+2378,All firms
+2379,All firms
+2380,All firms
+2381,Female-owned
+2382,All firms
+2383,Female-owned
+2384,Male-owned
+2385,Equally male-/female-owned
+2386,All firms
+2387,Female-owned
+2388,Male-owned
+2389,Equally male-/female-owned
+2390,Male-owned
+2391,Equally male-/female-owned
+2392,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2393,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2394,All firms
+2395,Female-owned
+2396,Male-owned
+2397,Equally male-/female-owned
+2398,All firms
+2399,All firms
+2400,All firms
+2401,All firms
+2402,All firms
+2403,All firms
+2404,All firms
+2405,All firms
+2406,Female-owned
+2407,Male-owned
+2408,Equally male-/female-owned
+2409,Female-owned
+2410,Male-owned
+2411,Equally male-/female-owned
+2412,All firms
+2413,All firms
+2414,Female-owned
+2415,Male-owned
+2416,Equally male-/female-owned
+2417,All firms
+2418,Female-owned
+2419,Female-owned
+2420,Male-owned
+2421,Equally male-/female-owned
+2422,All firms
+2423,Female-owned
+2424,Male-owned
+2425,Equally male-/female-owned
+2426,All firms
+2427,Female-owned
+2428,Male-owned
+2429,Equally male-/female-owned
+2430,All firms
+2431,Female-owned
+2432,Male-owned
+2433,Equally male-/female-owned
+2434,All firms
+2435,All firms
+2436,All firms
+2437,All firms
+2438,All firms
+2439,All firms
+2440,All firms
+2441,All firms
+2442,Female-owned
+2443,Male-owned
+2444,Equally male-/female-owned
+2445,Female-owned
+2446,Male-owned
+2447,Equally male-/female-owned
+2448,All firms
+2449,Female-owned
+2450,Male-owned
+2451,Equally male-/female-owned
+2452,Male-owned
+2453,Equally male-/female-owned
+2454,All firms
+2455,Female-owned
+2456,Male-owned
+2457,Equally male-/female-owned
+2458,All firms
+2459,Female-owned
+2460,Male-owned
+2461,Equally male-/female-owned
+2462,All firms
+2463,Female-owned
+2464,Male-owned
+2465,Equally male-/female-owned
+2466,All firms
+2467,Female-owned
+2468,Male-owned
+2469,Equally male-/female-owned
+2470,All firms
+2471,Female-owned
+2472,Male-owned
+2473,Equally male-/female-owned
+2474,All firms
+2475,Female-owned
+2476,Male-owned
+2477,Equally male-/female-owned
+2478,All firms
+2479,Female-owned
+2480,Male-owned
+2481,Equally male-/female-owned
+2482,All firms
+2483,Female-owned
+2484,Male-owned
+2485,Equally male-/female-owned
+2486,All firms
+2487,Female-owned
+2488,Male-owned
+2489,Equally male-/female-owned
+2490,All firms
+2491,Female-owned
+2492,Male-owned
+2493,Equally male-/female-owned
+2494,All firms
+2495,Female-owned
+2496,Male-owned
+2497,Equally male-/female-owned
+2498,All firms
+2499,Female-owned
+2500,Male-owned
+2501,Equally male-/female-owned
+2502,All firms
+2503,Female-owned
+2504,Male-owned
+2505,Equally male-/female-owned
+2506,All firms
+2507,Female-owned
+2508,Male-owned
+2509,Equally male-/female-owned
+2510,All firms
+2511,Female-owned
+2512,Male-owned
+2513,Equally male-/female-owned
+2514,All firms
+2515,Female-owned
+2516,Male-owned
+2517,Equally male-/female-owned
+2518,All firms
+2519,Female-owned
+2520,Male-owned
+2521,All firms
+2522,Female-owned
+2523,Male-owned
+2524,Equally male-/female-owned
+2525,Equally male-/female-owned
+2526,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2527,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2528,All firms
+2529,Female-owned
+2530,Male-owned
+2531,Equally male-/female-owned
+2532,All firms
+2533,Female-owned
+2534,Male-owned
+2535,All firms
+2536,Female-owned
+2537,Male-owned
+2538,Equally male-/female-owned
+2539,Female-owned
+2540,Male-owned
+2541,Equally male-/female-owned
+2542,All firms
+2543,Equally male-/female-owned
+2544,All firms
+2545,Female-owned
+2546,Male-owned
+2547,Equally male-/female-owned
+2548,All firms
+2549,Female-owned
+2550,Male-owned
+2551,Equally male-/female-owned
+2552,All firms
+2553,All firms
+2554,Female-owned
+2555,Male-owned
+2556,Equally male-/female-owned
+2557,All firms
+2558,Female-owned
+2559,Male-owned
+2560,Equally male-/female-owned
+2561,All firms
+2562,Female-owned
+2563,Male-owned
+2564,Equally male-/female-owned
+2565,All firms
+2566,Female-owned
+2567,Male-owned
+2568,Equally male-/female-owned
+2569,All firms
+2570,Female-owned
+2571,Male-owned
+2572,Equally male-/female-owned
+2573,All firms
+2574,Female-owned
+2575,Male-owned
+2576,Equally male-/female-owned
+2577,All firms
+2578,Female-owned
+2579,Male-owned
+2580,Equally male-/female-owned
+2581,All firms
+2582,Female-owned
+2583,Male-owned
+2584,Equally male-/female-owned
+2585,All firms
+2586,Female-owned
+2587,Male-owned
+2588,Equally male-/female-owned
+2589,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2590,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2591,All firms
+2592,Female-owned
+2593,Male-owned
+2594,Equally male-/female-owned
+2595,All firms
+2596,Female-owned
+2597,Male-owned
+2598,Equally male-/female-owned
+2599,All firms
+2600,Female-owned
+2601,Male-owned
+2602,Equally male-/female-owned
+2603,All firms
+2604,Female-owned
+2605,Male-owned
+2606,Equally male-/female-owned
+2607,All firms
+2608,Female-owned
+2609,Male-owned
+2610,Equally male-/female-owned
+2611,All firms
+2612,Female-owned
+2613,Male-owned
+2614,Equally male-/female-owned
+2615,All firms
+2616,Female-owned
+2617,Male-owned
+2618,Equally male-/female-owned
+2619,All firms
+2620,Female-owned
+2621,Male-owned
+2622,Equally male-/female-owned
+2623,All firms
+2624,Female-owned
+2625,Male-owned
+2626,Equally male-/female-owned
+2627,All firms
+2628,Female-owned
+2629,Male-owned
+2630,Equally male-/female-owned
+2631,All firms
+2632,Female-owned
+2633,Male-owned
+2634,Equally male-/female-owned
+2635,All firms
+2636,Female-owned
+2637,Male-owned
+2638,Equally male-/female-owned
+2639,All firms
+2640,Female-owned
+2641,Male-owned
+2642,Equally male-/female-owned
+2643,All firms
+2644,Female-owned
+2645,Male-owned
+2646,Equally male-/female-owned
+2647,All firms
+2648,Female-owned
+2649,Male-owned
+2650,Equally male-/female-owned
+2651,All firms
+2652,Female-owned
+2653,Male-owned
+2654,Equally male-/female-owned
+2655,All firms
+2656,Female-owned
+2657,Male-owned
+2658,Equally male-/female-owned
+2659,All firms
+2660,Female-owned
+2661,Male-owned
+2662,Equally male-/female-owned
+2663,All firms
+2664,Female-owned
+2665,Male-owned
+2666,Equally male-/female-owned
+2667,All firms
+2668,Female-owned
+2669,Male-owned
+2670,Equally male-/female-owned
+2671,All firms
+2672,All firms
+2673,All firms
+2674,Female-owned
+2675,Male-owned
+2676,Equally male-/female-owned
+2677,All firms
+2678,Female-owned
+2679,Male-owned
+2680,Equally male-/female-owned
+2681,All firms
+2682,All firms
+2683,All firms
+2684,All firms
+2685,All firms
+2686,All firms
+2687,All firms
+2688,Female-owned
+2689,Male-owned
+2690,Equally male-/female-owned
+2691,All firms
+2692,Female-owned
+2693,Male-owned
+2694,Equally male-/female-owned
+2695,All firms
+2696,Female-owned
+2697,Male-owned
+2698,Equally male-/female-owned
+2699,All firms
+2700,Female-owned
+2701,Male-owned
+2702,Equally male-/female-owned
+2703,All firms
+2704,All firms
+2705,All firms
+2706,All firms
+2707,All firms
+2708,All firms
+2709,All firms
+2710,Female-owned
+2711,Male-owned
+2712,Equally male-/female-owned
+2713,All firms
+2714,All firms
+2715,All firms
+2716,All firms
+2717,All firms
+2718,All firms
+2719,All firms
+2720,All firms
+2721,All firms
+2722,Female-owned
+2723,Male-owned
+2724,Equally male-/female-owned
+2725,"All firms classifiable by gender, ethnicity, race, and veteran status"
+2726,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status"
+2727,Male-owned
+2728,Equally male-/female-owned
+2729,All firms
+2730,Female-owned
+2731,Male-owned
+2732,Equally male-/female-owned
+2733,All firms
+2734,Female-owned
+2735,Male-owned
+2736,Equally male-/female-owned
+2737,All firms
+2738,Female-owned
+2739,Male-owned
+2740,Equally male-/female-owned
+2741,All firms
+2742,Female-owned
+2743,Male-owned
+2744,Equally male-/female-owned
+2745,All firms
+2746,Female-owned
+2747,Male-owned
+2748,Equally male-/female-owned
+2749,All firms
+2750,Female-owned
+2751,Male-owned
+2752,Equally male-/female-owned
+2753,All firms
+2754,Female-owned
+2755,Male-owned
+2756,Equally male-/female-owned
+2757,All firms
+2758,Female-owned
+2759,All firms
+2760,Female-owned
+2761,Male-owned
+2762,Equally male-/female-owned
+2763,All firms
+2764,Female-owned
+2765,Male-owned
+2766,Equally male-/female-owned
+2767,All firms
+2768,Female-owned
+2769,Male-owned
+2770,Equally male-/female-owned
+2771,All firms
+2772,Female-owned
+2773,Male-owned
+2774,Equally male-/female-owned
+2775,All firms
+2776,All firms
+2777,Female-owned
+2778,Male-owned
+2779,Equally male-/female-owned
+2780,All firms
+2781,Female-owned
+2782,Male-owned
+2783,Equally male-/female-owned
+2784,All firms
+2785,Female-owned
+2786,Male-owned
+2787,Equally male-/female-owned
+2788,All firms
+2789,Female-owned
+2790,Male-owned
+2791,Equally male-/female-owned
+2792,All firms
+2793,Female-owned
+2794,Male-owned
+2795,Equally male-/female-owned
+2796,All firms
+2797,Female-owned
+2798,Male-owned
+2799,Equally male-/female-owned
+2800,All firms
+2801,Female-owned
+2802,Male-owned
+2803,Equally male-/female-owned
+2804,All firms
+2805,Female-owned
+2806,Male-owned
+2807,Equally male-/female-owned
+2808,Female-owned
+2809,Male-owned
+2810,Equally male-/female-owned
+2811,All firms
+2812,Female-owned
+2813,Male-owned
+2814,Equally male-/female-owned
+2815,All firms
+2816,Female-owned
+2817,Male-owned
+2818,Equally male-/female-owned
+2819,All firms
+2820,All firms
+2821,All firms
+2822,Female-owned
+2823,Male-owned
+2824,Equally male-/female-owned
+2825,All firms
+2826,All firms
+2827,All firms
+2828,All firms
+2829,All firms
+2830,All firms
+2831,All firms
+2832,Female-owned
+2833,Male-owned
+2834,Equally male-/female-owned
+2835,All firms
+2836,Female-owned
+2837,Male-owned
+2838,Equally male-/female-owned
+2839,All firms
+2840,All firms
+2841,All firms
+2842,All firms
+2843,All firms
+2844,All firms
+2845,All firms
+2846,Female-owned
+2847,Male-owned
+2848,Equally male-/female-owned
+2849,All firms
+2850,All firms
+2851,All firms
+2852,All firms
+2853,All firms
+2854,All firms
+2855,All firms
+2856,All firms
