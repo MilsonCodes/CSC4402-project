@@ -1,4 +1,22 @@
+# Show all tables in database
 show tables;
+
+# Show number of businesses in database
+select count(*) from firm;
+
+# Show number of businesses with only paid employees
+select count(*) from firm where paid_firms = 0 and not unpaid_firms = 0;
+
+# Show number of businessess with only unpaid employees
+select count(*) from firm where unpaid_firms = 0 and not paid_firms = 0;
+
+# Show number of bussiness with no firms
+select count(*) from firm where total_firms = 0;
+
+# Show total number of firms
+select sum(total_firms) from firm;
+
+
 # View for selecting all firms WITH paid employees
 #
 # View for selecting all firms WITHOUT paid employees
