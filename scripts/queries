@@ -20,3 +20,25 @@ select sum(total_firms) from firm;
 # View for selecting all firms WITH paid employees
 #
 # View for selecting all firms WITHOUT paid employees
+#
+#
+# Q1 - Join, Subquery, Aggregate Function
+#
+# Q2 - Join, Set Operations, IS NULL
+#
+# Q3 - GROUP BY with HAVING, Aggregate Function
+#
+# Q4 - Join, GROUP BY, Aggregate Function
+#
+# Q5 - GROUP BY, IS NULL
+#
+# Q6 - Aggregate Function
+#
+# Q7 - Join, GROUP BY with HAVING, Aggregate Function
+#
+# Q8 - Join, String Operations (like)
+#
+# Q9 - Join, IN/NOT
+#
+# Q10 - Join, GROUP BY, ORDER BY, Aggregate Function
+#
