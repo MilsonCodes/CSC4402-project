@@ -1,3 +1,4 @@
+show tables;
 # View for selecting all firms WITH paid employees
 #
 # View for selecting all firms WITHOUT paid employees
