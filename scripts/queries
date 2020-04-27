@@ -44,4 +44,5 @@ select sum(total_firms) from firm;
 # Q9 - Join, IN/NOT
 #
 # Q10 - Join, GROUP BY, ORDER BY, Aggregate Function
-#
+# Show average payroll based on race group
+select avg(b.annual_payroll) as 'Average Payroll', r.race_group as 'Race' from (select * from race) as r join business b on r.id = b.ethnicity_id group by r.race_group order by b.annual_payroll;
