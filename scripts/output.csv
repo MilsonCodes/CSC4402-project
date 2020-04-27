@@ -7,10 +7,10 @@ id,	location_id,	industry_id,	ethnicity_id,	race_id,	gender_id,	firm_id,	receipt
 id	location
 0	location
 id	industry
-2721	"Agriculture
-870	"Arts
-1414	"Mining
-190	"Professional
+2721	Agriculture
+870	Arts
+1414	Mining
+190	Professional
 1012	Accommodation and food services
 462	Administrative and support and waste management and remediation services
 1686	Construction
@@ -18,10 +18,10 @@ id	industry
 1	Finance and insurance
 628	Health care and social assistance
 id	ethnic_group
-7	"All firms classifiable by gender
-24	"Mexican
-36	"Other Hispanic
-8	"Publicly held and other firms not classifiable by gender
+7	All firms classifiable by gender
+24	Mexican
+36	Other Hispanic
+8	Publicly held and other firms not classifiable by gender
 9	All firms
 32	Cuban
 40	Equally Hispanic/non-Hispanic
@@ -29,8 +29,8 @@ id	ethnic_group
 14	Hispanic
 1	Non-Hispanic
 id	race_group
-12	"All firms classifiable by gender
-13	"Publicly held and other firms not classifiable by gender
+12	All firms classifiable by gender
+13	Publicly held and other firms not classifiable by gender
 7	All firms
 3	American Indian and Alaska Native
 4	Asian
@@ -40,8 +40,8 @@ id	race_group
 74	Equally minority/nonminority
 137	Filipino
 id	sex
-92	"All firms classifiable by gender
-93	"Publicly held and other firms not classifiable by gender
+92	All firms classifiable by gender
+93	Publicly held and other firms not classifiable by gender
 1	All firms
 11	Equally male-/female-owned
 9	Female-owned
