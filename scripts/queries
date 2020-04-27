@@ -19,15 +19,15 @@ select count(*) from (select * from industry where industry = 'Finance and insur
 
 # Q2 - Join, Set Operations, IS NULL
 # Show businesses with 0 unpaid firms
-#select * from (select * from firm where unpaid_firms = 0 as f1) intersect (select * from firm where not total_firms is null as f2) join business b on b.firm_id = f1.id;
+#select * from (select * from firm where unpaid_firms = 0 as f1) intersect (select * from firm where total_firms is not null as f2) join business b on b.firm_id = f1.id;
 
 # Q3 - GROUP BY with HAVING, Aggregate Function
 # Show industries with more than 100 businesses
 select * from industry i group by i.industry having count(*) > 100;
 
 # Q4 - Join, GROUP BY, Aggregate Function
-#
-#select * from industry i group by i.industry join buisness on business.industry_id = i.id;
+# Show average payroll based on gender
+select avg(b.annual_payroll) as 'Avg Payroll', g.sex as 'gender' from (select * from gender) as g join business b on g.id = b.gender_id group by g.sex;
 
 # Q5 - GROUP BY, IS NULL
 # Show number of businesses with no employees
@@ -38,11 +38,17 @@ select count(*) from business group by num_employees having num_employees is nul
 select sum(total_firms) from firm;
 
 # Q7 - Join, GROUP BY with HAVING, Aggregate Function
-#
+# Show average payroll error based on industries having payroll error greater than 10
+select avg(payroll_error) as 'Avg Payroll Error', i.industry as 'industry' from (select * from industry) as i join business b on i.id = b.industry_id group by i.industry having avg(payroll_error)>10;
+
 # Q8 - Join, String Operations (like)
-#
+# Show number of businesses
+select count(*) from business b join ethnicity e on e.id=b.ethnicity_id where ethnic_group like '%no%';
+
 # Q9 - Join, IN/NOT
-#
+# Show number of businesses that are female owned or equally male/female owned
+select count(*) from business b join gender g on b.id=g.id where g.sex in ('Female-owned','Equally male-/female-owned');
+
 # Q10 - Join, GROUP BY, ORDER BY, Aggregate Function
 # Show average payroll based on race group
 select avg(b.annual_payroll) as 'Average Payroll', r.race_group as 'Race' from (select * from race) as r join business b on r.id = b.ethnicity_id group by r.race_group order by b.annual_payroll;
