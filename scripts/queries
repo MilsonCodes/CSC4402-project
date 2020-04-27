@@ -2,38 +2,41 @@
 show tables;
 
 # Show number of businesses in database
-select count(*) from firm;
+#select count(*) from firm;
 
 # Show number of businesses with only paid employees
-select count(*) from firm where paid_firms = 0 and not unpaid_firms = 0;
+#select count(*) from firm where paid_firms = 0 and not unpaid_firms = 0;
 
 # Show number of businessess with only unpaid employees
-select count(*) from firm where unpaid_firms = 0 and not paid_firms = 0;
+#select count(*) from firm where unpaid_firms = 0 and not paid_firms = 0;
 
 # Show number of bussiness with no firms
-select count(*) from firm where total_firms = 0;
+#select count(*) from firm where total_firms = 0;
 
+# Q1 - Join, Subquery, Aggregate Function
+# Show number of bussinesses in Finance and Insurance
+select count(*) from (select * from industry where industry = 'Finance and insurance') i join business b on i.id = b.industry_id;
+
+# Q2 - Join, Set Operations, IS NULL
+# Show businesses with 0 unpaid firms
+#select * from (select * from firm where unpaid_firms = 0 as f1) intersect (select * from firm where not total_firms is null as f2) join business b on b.firm_id = f1.id;
+
+# Q3 - GROUP BY with HAVING, Aggregate Function
+# Show industries with more than 100 businesses
+select * from industry i group by i.industry having count(*) > 100;
+
+# Q4 - Join, GROUP BY, Aggregate Function
+#
+#select * from industry i group by i.industry join buisness on business.industry_id = i.id;
+
+# Q5 - GROUP BY, IS NULL
+# Show number of businesses with no employees
+select count(*) from business group by num_employees having num_employees is null or num_employees = 0;
+
+# Q6 - Aggregate Function
 # Show total number of firms
 select sum(total_firms) from firm;
 
-
-# View for selecting all firms WITH paid employees
-#
-# View for selecting all firms WITHOUT paid employees
-#
-#
-# Q1 - Join, Subquery, Aggregate Function
-#
-# Q2 - Join, Set Operations, IS NULL
-#
-# Q3 - GROUP BY with HAVING, Aggregate Function
-#
-# Q4 - Join, GROUP BY, Aggregate Function
-#
-# Q5 - GROUP BY, IS NULL
-#
-# Q6 - Aggregate Function
-#
 # Q7 - Join, GROUP BY with HAVING, Aggregate Function
 #
 # Q8 - Join, String Operations (like)
