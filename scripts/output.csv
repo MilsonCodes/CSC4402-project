@@ -1,0 +1,71 @@
+id	location_id	industry_id	ethnicity_id	race_id	gender_id	firm_id	receipts_id	annual_payroll	payroll_error	num_employees	employees_error	year
+0	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	1	1	1	1	1	1	101752690	1.3	1359340	1.2	2012
+2	2	2	2	2	2	2	2	840927	16.4	15887	9.7	2012
+3	3	3	3	3	3	3	3	167558	22.6	4502	14.1	2012
+4	4	4	4	4	4	4	4	1857635	4.9	30096	4.6	2012
+id	location
+0	location
+id	industry
+2721	"Agriculture
+870	"Arts
+1414	"Mining
+190	"Professional
+1012	Accommodation and food services
+462	Administrative and support and waste management and remediation services
+1686	Construction
+598	Educational services
+1	Finance and insurance
+628	Health care and social assistance
+id	ethnic_group
+7	"All firms classifiable by gender
+24	"Mexican
+36	"Other Hispanic
+8	"Publicly held and other firms not classifiable by gender
+9	All firms
+32	Cuban
+40	Equally Hispanic/non-Hispanic
+0	ethnic_group
+14	Hispanic
+1	Non-Hispanic
+id	race_group
+12	"All firms classifiable by gender
+13	"Publicly held and other firms not classifiable by gender
+7	All firms
+3	American Indian and Alaska Native
+4	Asian
+120	Asian Indian
+2	Black or African American
+128	Chinese
+74	Equally minority/nonminority
+137	Filipino
+id	sex
+92	"All firms classifiable by gender
+93	"Publicly held and other firms not classifiable by gender
+1	All firms
+11	Equally male-/female-owned
+9	Female-owned
+10	Male-owned
+0	sex
+id	total_firms	total_error	paid_firms	paid_error	unpaid_firms	unpaid_error
+0	0	0	0	0	0	0
+1	769870	0.2	190604	0.4	579266	0.3
+2	42056	1.2	4058	6.1	37997	1.2
+3	5335	4.5	1168	8.1	4167	5.8
+4	47276	1.4	7484	2.8	39792	1.9
+5	1152	7.9	107	27.4	1046	7.6
+6	2236	13.2	276	21.2	1960	13.3
+7	920742	0.2	212378	0.4	708363	0.2
+8	39772	2	20379	2.3	19393	3.4
+9	155415	1.1	28392	2.8	127024	1.5
+id	total_receipts	total_error	paid_receipts	paid_error	unpaid_receipts	unpaid_error
+0	0	0	0	0	0	0
+1	405420223	1	359222629	1.2	46197594	1.3
+2	3506162	7.6	2541428	11.7	964734	6.1
+3	795241	15.3	527511	19.9	267730	10.3
+4	9544329	4.2	6594539	5.4	2949790	3.9
+5	155985	20.6	67540	34.8	88445	19.6
+6	296237	16.3	168302	28	127935	31.1
+7	429061567	1	376388916	1.2	52672651	1.2
+8	2147483647	0.4	2147483647	0.4	3320119	6.2
+9	31527302	4.7	25554979	6	5972322	3.9

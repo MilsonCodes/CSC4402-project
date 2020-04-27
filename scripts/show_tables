@@ -1,0 +1,8 @@
+select * from business limit 5;
+select * from location limit 1;
+select * from industry i group by i.industry limit 10;
+select * from ethnicity e group by e.ethnic_group limit 10;
+select * from race r group by r.race_group limit 10;
+select * from gender g group by g.sex limit 10;
+select * from firm limit 10;
+select * from receipts limit 10;
