@@ -1,4 +1,4 @@
-id	location_id	industry_id	ethnicity_id	race_id	gender_id	firm_id	receipts_id	annual_payroll	payroll_error	num_employees	employees_error	year
+id,	location_id,	industry_id,	ethnicity_id,	race_id,	gender_id,	firm_id,	receipts_id,	annual_payroll,	payroll_error,	num_employees,	employees_error,	year
 0	0	0	0	0	0	0	0	0	0	0	0	0
 1	1	1	1	1	1	1	1	101752690	1.3	1359340	1.2	2012
 2	2	2	2	2	2	2	2	840927	16.4	15887	9.7	2012
