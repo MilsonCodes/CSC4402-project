@@ -42,7 +42,7 @@ select sum(total_firms) from firm;
 select avg(payroll_error) as 'Avg Payroll Error', i.industry as 'industry' from (select * from industry) as i join business b on i.id = b.industry_id group by i.industry having avg(payroll_error)>10;
 
 # Q8 - Join, String Operations (like)
-# Show number of businesses
+# Show number of businesses that contain string "no" in any position of ethnic group
 select count(*) from business b join ethnicity e on e.id=b.ethnicity_id where ethnic_group like '%no%';
 
 # Q9 - Join, IN/NOT
